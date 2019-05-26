@@ -50,6 +50,20 @@ footer-left: "Telecom SudParis - GATE®"
 
 ## Thomas DOUDAT
 
+Le GATE® HackademINT à été très enrichissant pour moi, sur de nombreux aspects. J'ai pu m'épanouir dans ce projet qui a su m'apporter tout ce que j'attendais de ce dernier.
+En effet en choisissant HackademINT qui m'a été présenté comme un projet technique, je m'attendais à développer des compétences dans ce domaine qui me passionne : la cybersécurité; je n'ai pas été déçu, bien au contraire.
+
+HackademINT m'a apporté une formation technique et culturelle sur le milieu du hacking et de la cybersécurité qui sont des milieux très mystérieux sur lesquels beaucoup de monde a une vision biaisée.
+J'ai, grâce à HackademINT, au travers des nombreux CTF, forums de cybersécurité et divers autres événements auxquels nous avons participé, pu me forger mon propre avis sur la chose et ainsi découvrir un univers passionant qui m'a conforté dans mon projet professionel.
+
+Au dela des compétences techniques que j'ai acquises, j'ai également, grâce à ce GATE®, rencontré des grands noms de la cybersécurité et ainsi commencé à développer mon réseau afin d'être au mieux préparé pour mon entrée dans le monde du travail.
+
+Mon implication m'a valu d'être élu président de HackademINT, ce qui m'a permis de développer encore plus mes compétence en communication, en leadership ainsi qu'en travail et gestion d'équipe.
+Cette promotion m'a également apprise à me familiariser avec l'administratif et le fait d'avoir des responsabilités.
+Elle m'a d'autant plus motivé à faire grandir ce club qui a subi une explosion cette année que ce soit en terme de nombre de membres actifs, de visibilité (HackademINT est désormais reconnu par de nombreuses équipes de CTF en france), de budget ou d'infrastructure réseau. Nous avons même désormais un local dans le foyer étudiant.
+
+Au final, je ne tire que du bien de cette expérience qui en plus d'avoir été professionalisante et riche en émotions m'a également permise de développer de nombreuses compétences aussi bien non techniques que techniques.
+
 ## François HORTA
 
 ## Xavier-Henri MONIER
