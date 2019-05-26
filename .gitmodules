@@ -1,0 +1,3 @@
+[submodule "verbose-pancake"]
+	path = verbose-pancake
+	url = https://github.com/Frazew/verbose-pancake.git
