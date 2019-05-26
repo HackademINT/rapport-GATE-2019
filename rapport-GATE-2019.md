@@ -79,6 +79,15 @@ En résumé, ce projet m’a permis de développer trois skill sets en parallèl
 
 ## Gabriel PRÉVAULT
 
+Le projet GATE a été pour moi la première fois que je me suis investi dans un projet sur une si longue période. L'idée initiale d'HackademINT 2019 m'avait assez intéressé et j'ai pris beaucoup de plaisir à acquérir de nouvelles connaissances grâce aux formations que nous avons effectuées au début du projet et aux compétitions en ligne auxquelles nous avons participé. 
+
+Cette expérience m'a également permis de me rendre vraiment compte des difficultés que l'on peut rencontrer lorsque l'on doit mener à bien un projet de groupe. Pour ma part, cela s'est notamment ressenti lors de l'organisation du café vie privée. J'ai ressenti un manque de communication et d'organisation au sein de l'équipe, mais cela n'a pas empêché l'événement d'être un succès. J'ai, de plus, eu du mal à trouver ma place dans le groupe et au fur et à mesure de l'année, je me suis désintéressé du club HackademINT, qui reste fortement lié au projet GATE.
+
+En tant que responsable communication, j'ai apprécié pouvoir réaliser différents types de visuels, d'une image pour une publication sur Facebook à différentes affiches pour la café vie privée ou celle pour la clôture de GATE, en passant par une nouvelle version du logo du projet. C'est la première fois que ce que je réalise sert effectivement à quelque chose, et le fait de travailler en groupe permet également d'avoir un retour sur son travail et donc d'améliorer des points que je n'aurais pas pu remarquer seul.
+
+Ainsi, le projet HackademINT 2019 m'a permis, au départ, de mieux découvrir la cybersécurité, domaine sur lequel j'avais des fausses idées, puis je me suis en quelque sorte "détaché" du côté technique. J'ai continué d'assumer mon rôle en tant que responsable communication, et ne me suis que très peu investi dans le club HackademINT en lui-même. Je ne pense pas rester investi dans le club l'année prochaine, mais cela a été l'occasion d'acquérir quelques compétences techniques et de gestion de projet.
+
+
 ## Alice ZHEN
 
 # Conclusion
