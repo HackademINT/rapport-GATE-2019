@@ -120,7 +120,13 @@ Les formations que nous avons suivies ont été utiles et ont très certainement
 
 ## Bilan collectif
 
-@Archonte
+Ce projet a eu trois effets principaux. 
+
+Tout d’abord concernant les membres de l’équipe, ceux-ci ont tous pu développer des compétences techniques dans le domaine de la cybersécurité mais également des capacités de travail d’équipe et de gestion de projet inhérentes à un travail de cette envergure.
+
+Ensuite, le travail technique des membres du GATE a permis au club HackademINT de grandement améliorer sa position et son classement au sein de la communauté de la cybersécurité en France.
+
+Enfin, le travail de communication et de négociation avec les entreprises a permis la conclusion d’un partenariat prestigieux avec Accenture Security qui, outre une compensation financière permettant le développement des activités, permet d’augmenter le rayonnement du club.
 
 ## Vincent BOISDON
 
