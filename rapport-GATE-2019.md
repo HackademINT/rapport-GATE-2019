@@ -126,7 +126,7 @@ Tout d’abord concernant les membres de l’équipe, ceux-ci ont tous pu dével
 
 Ensuite, le travail technique des membres du GATE a permis au club HackademINT de grandement améliorer sa position et son classement au sein de la communauté de la cybersécurité en France.
 
-Enfin, le travail de communication et de négociation avec les entreprises a permis la conclusion d’un partenariat prestigieux avec Accenture Security qui, outre une compensation financière permettant le développement du club, permet d’augmenter le rayonnement du club.
+Enfin, le travail de communication et de négociation avec les entreprises a permis la conclusion d’un partenariat prestigieux avec Accenture Security qui, outre une compensation financière permettant le développement des activités, permet d’augmenter le rayonnement du club.
 
 ## Vincent BOISDON
 
