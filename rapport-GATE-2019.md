@@ -20,11 +20,17 @@ titlepage-rule-color: "FFFFFF"
 titlepage-rule-height: 2
 colorlinks: true
 footer-left: "Telecom SudParis - GATE®"
+logo: "images/logo.png"
 ---
 
 # Introduction
 
-@Frazew
+Le projet GATE HackademINT 2019 est né de la passion d'une équipe pour la
+cybersécurité. A travers une formation continue et des challenges réguliers,
+nous avons pu remplir nos objectifs de développer nos connaissances mais aussi
+et surtout de développer le club HackademINT. Cette progression a abouti le 22
+mai à l'organisation du Café Vie Privée avec le désormais partenaire du club
+HackademINT Accenture Security.
 
 # Équipe et organisation
 
@@ -136,6 +142,22 @@ Elle m'a d'autant plus motivé à faire grandir ce club qui a subi une explosion
 Au final, je ne tire que du bien de cette expérience qui en plus d'avoir été professionalisante et riche en émotions m'a également permise de développer de nombreuses compétences aussi bien non techniques que techniques.
 
 ## François HORTA
+
+En raison de ma passion pour l'informatique et la cybersécurité, le projet GATE
+HackademINT 2019 m'était apparu comme une évidence en début
+d'année. C'est donc assez naturellement que j'ai pris beaucoup de plaisir à
+développer mes compétences et celles de toute l'équipe à travers les formations
+du club HackademINT et les participations aux CTFs. 
+
+J'ai eu le rôle de chef de projet, et j'ai essayé de m'y tenir en dépit de mes
+autres responsabilités ailleurs. J'avais déjà eu l'occasion auparavant de gérer
+des équipes sur des projets concrets, mais l'utilisation de méthodes agiles
+comme nous l'avons fait était nouvelle et s'est avérée être une découverte intéressante.
+
+Au delà de la progression personnelle en matière de cybersécurité et de gestion
+projet, je tire surtout de ce GATE la satisfaction d'avoir aidé le club
+HackademINT à se développer et à obtenir une visibilité et une renommée indéniables
+sur la scène française des CTF. 
 
 ## Xavier-Henri MONIER
 Cela a été un plaisir de travailler sur ce projet technique, au sein d’un GATE® travaillant autour d’une thématique extrêmement intéressante et absente de l’enseignement de première année.
