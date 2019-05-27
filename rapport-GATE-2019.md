@@ -104,6 +104,11 @@ Je sors donc de ce projet GATE® avec beaucoup d'expérience en cybersécurité 
 
 ## Bruno DENNEMONT
 
+Le projet GATE® a été très épanouissant. Cela a en effet été la première fois où je m'impliquais dans un projet sur une si longue durée. J'avais beaucoup d'attente dans ce projet, c'était le moment pour moi de me mettre à la cybersécurité.
+J'ai très vité réalisé qu'il allait falloir que je m'investisse au maximum pour progresser. Nous nous sommes formés en lisant beaucoup de documentation et grâce à des sites tels que Root-Me, NewbieContest et OverTheWire. Ce que j'ai le plus apprécié, ce sont les **Capture The Flag**s (CTFs). Ils consistent en des "enigmes" de cybersécurité et ont l'avantage de beaucoup faire réflechir (comme des énigmes). Ces jeux nous ont formés à pouvoir réfléchir en toutes circonstances, à être actif la nuit mais aussi de nombreuse compétence. Pour être au niveau, il faut avoir des connaissances dans un maximum de language (PHP, python, javascript ...), en réseau sur les trames et les faiblesses, en mathématiques pour la cryptographique ... . De plus, ils permettent de découvrir de nombreuses entreprises partout en France car les compétitions ont lieu partout et sont souvent précédées de forums et de conférence.
+J'ai très rapidement progressé et pu proposer des formations aux autres membres du club ce qui est encore plus formateur. Au final, il y a une grande différence entre effectuer un challenge et en proposer. Il faut se projeter et faire un très grand effort sur soi-même pour expliquer. 
+Mon bilan sur ce projet est plus que positif car il m'a permis d'acquérir des compétences et connaissances non négligeables que je n'aurai pas pu apprendre ailleurs. 
+
 ## Thomas DOUDAT
 
 Le GATE® HackademINT à été très enrichissant pour moi, sur de nombreux aspects. J'ai pu m'épanouir dans ce projet qui a su m'apporter tout ce que j'attendais de ce dernier.
