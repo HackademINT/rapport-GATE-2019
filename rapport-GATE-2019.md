@@ -146,4 +146,14 @@ Ainsi, le projet HackademINT 2019 m'a permis, au départ, de mieux découvrir la
 
 ## Alice ZHEN
 
+J'ai intégré le GATE HackademINT en début d'année avec comme motivation principale la possibilité de développer à travers ce projet des compétences techniques.
+
+Si les premiers mois ont été difficiles dans la mesure où il a fallu développer des automatismes techniques et assimiler une importante variété de connaissances, j'ai pu atteindre au cours de l'année une zone de confort à partir de laquelle il m'était bien plus aisé de continuer à progresser. 
+
+Les nombreuses compétitions auxquelles nous avons participé partout en France m'ont permis de découvrir et d'apprécier le vaste milieu de la cybersécurité.
+
+Les expériences vécues tout au long de l'année ont été très enrichissantes autant d'un point de vue technique qu'humain. En effet la diversité des challenges rencontrés permet de toujours avoir un domaine à approfondir et pousse à s'améliorer sans se reposer sur ses acquis.
+
+Au terme de cette année, je suis globalement satisfaite de ce que nous avons pu accomplir. Je suis reconnaissante de la chance que j'ai eu d'intégrer ce projet technique très formateur.
+
 # Conclusion
