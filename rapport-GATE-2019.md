@@ -24,23 +24,41 @@ footer-left: "Telecom SudParis - GATE®"
 
 # Introduction
 
+@Frazew
+
 # Équipe et organisation
+
+@LemonIce
 
 # Déroulement général
 
+@Headorteil
+
 ## Réalisations et livrables
+
+@Bdenneu
 
 ## Attentes vs Réalité
 
+@gabery
+
 ## Relations humaines et management
+
+@Boisdal
 
 ## Gestion des risques
 
+@patate
+
 ## Gestion de projet et suivi
+
+@Frazew
 
 # Dossier Bilan
 
 ## Bilan collectif
+
+@Archonte
 
 ## Vincent BOISDON
 
