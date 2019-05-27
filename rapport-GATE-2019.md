@@ -37,7 +37,7 @@ HackademINT Accenture Security.
 L'équipe a été selectionnée par le client en début d'année, grâce à une plateforme de recrutement (https://star2018.hackademint.org/) suivi d'un entretien. Voici les postes : 
 
 #### Chef de Projet :
-![François Horta](images/photos/Francois.jpg){height=50%}
+![François Horta](images/photos/Francois.jpg){height=20%}
 
 #### Pôle Formation :
 ![Thomas Doudat](images/photos/Thomas.jpg){height=50%} ![Arthur Boyer](images/photos/Arthur.jpg){height=50%}
