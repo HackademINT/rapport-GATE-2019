@@ -32,15 +32,21 @@ et surtout de développer le club HackademINT. Cette progression a abouti le 22
 mai à l'organisation du Café Vie Privée avec le désormais partenaire du club
 HackademINT Accenture Security.
 
+\pagebreak
+
 # Équipe et organisation
 
 L'équipe a été selectionnée par le client en début d'année, grâce à une plateforme de recrutement (https://star2018.hackademint.org/) suivi d'un entretien. Voici les postes : 
 
 #### Chef de Projet :
-![François Horta](images/photos/Francois.jpg){height=20%}
+| François HORTA |
+| :-: |
+| ![François Horta](images/photos/Francois.jpg){height=20%} |
 
 #### Pôle Formation :
-|![Thomas Doudat](images/photos/Thomas.jpg){height=20%} | ![Arthur Boyer](images/photos/Arthur.jpg){height=20%} |
+| Thomas DOUDAT | Arthur BOYER |
+| :-: | :-: |
+| ![Thomas Doudat](images/photos/Thomas.jpg){height=20%} | ![Arthur Boyer](images/photos/Arthur.jpg){height=20%} |
 
 #### Trésorerie :
 ![Xavier-Henri Monier](images/photos/XH.jpg){height=20%}
