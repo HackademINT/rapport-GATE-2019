@@ -126,9 +126,9 @@ Les formations que nous avons suivies ont été utiles et ont très certainement
 
 Ce GATE® m'aura permis de m'initier à la cybersécurité sans avoir à attendre les vap, et m'aura ainsi confirmé que la vap SSR est celle qui me plairait le plus. Par ailleurs j'y ai aussi découvert la gestion de projet en grosse équipe et toutes les difficultés inhérentes à celà.
 
-Hackadem'int m'aura apporté une formation fort utile dans les domaines utiles en CTF tout en me permettant de me forger un réseau de contacts de qualité et très appréciable dans le milieu
+HackademINT m'aura apporté une formation fort utile dans les domaines utiles en CTF tout en me permettant de me forger un réseau de contacts de qualité et très appréciable dans le milieu
 
-Tout les efforts fournis donnent de plaisants résultats et cela me satisfait beaucoup de penser que nous avons grandement amélioré le classement de l'équipe hackadem'INT par rapport aux autres années. Nous sommes désormais reconnus quand nous arrivons sur un CTF et sommes considérés comme des quandidats sérieux et comme des adversaires à surveiller. Et cela est d'après moi la meilleure des récompenses pour tout le temps consacré à s'entrainer.
+Tout les efforts fournis donnent de plaisants résultats et cela me satisfait beaucoup de penser que nous avons grandement amélioré le classement de l'équipe hackadem'INT par rapport aux autres années. Nous sommes désormais reconnus quand nous arrivons sur un CTF et sommes considérés comme des candidats sérieux et comme des adversaires à surveiller. Et cela est d'après moi la meilleure des récompenses pour tout le temps consacré à s'entrainer.
 
 L'autre moment fort enrichissant fût le café vie privée qui nous a permis d'apprendre à de nombreux élèves à se servir d'environnement sécurisés et de les sensibiliser grâce à la conférence de notre partenaire Accenture Security. J'ai pu à ce moment sentir à notre projet une utilité plus vaste que simplement personnelle ou pour la gloire du club et de l'école. Nous avons à ce moment été utiles à tous les gens du campus qui le souhaitaient. 
 
