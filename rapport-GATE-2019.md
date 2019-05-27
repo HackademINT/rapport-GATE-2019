@@ -36,13 +36,19 @@ footer-left: "Telecom SudParis - GATE®"
 
 ## Réalisations et livrables
 
-@Bdenneu
+Les objectifs que nous avions étaient assez vaste. Nous nous sommes tout d'abord penché sur former le club pour qu'il puisse rapidement se développer. Le but était de très rapidement participer à des compétitions pour promouvoir le club et Télécom SudParis. 
+
+A force de faire des compétitions, nous avons commencé à obtenir des scores honorables pour des étudiants de première année, et assez régulier pour que nous soyions reconnu par les autres compétiteurs.
+
+Pour donner de la visibilité au club, nous avons modifié le site et y avons proposé régulièrement des Writes Ups (Correction personnelle de Challenge de CTFs qu'ils soient en ligne ou physique) et communiqué nos déplacements aux divers événements sur twitter.
+
+Pour le campus, nous avons choisi de proposer un *café vie privé*. L'idée était d'apprendre des moyens de se protéger (Comment chiffrer leur données, protéger leur vie privée). Nous avons proposé des ateliers tels que la création de clés USB tails en partenariat avec Accenture Security qui a proposé une table ronde sur la vie privée et de sponsoriser le club.
 
 ## Attentes vs Réalité
 
 Au vu des livrables attendus, les délais ont été respectés. Ils concernaient notamment le café vie privée, les compétitions auxquelles nous avons participé, leurs résultats et les *writeups*,  
 
-Afin de nous entraîner, nous avons, dès le début du projet, participé à des CTF en ligne. Cela a été l'occasion d'avoir un premier aperçu des différents domaines à découvrir. Même si cela a été quelque peu laborieux, nous avons alors commencé a rédiger nos premiers *writeups* et à les mettre en ligne sur notre site <https://www.hackademint.org>. Ainsi, une première période de formation a été nécessaire. Elle était attendue de nous tous et a été globalement appréciée. 
+Afin de nous entraîner, nous avons, dès le début du projet, participé à des CTFs en ligne. Cela a été l'occasion d'avoir un premier aperçu des différents domaines à découvrir. Même si cela a été quelque peu laborieux, nous avons alors commencé a rédiger nos premiers *writeups* et à les mettre en ligne sur notre site <https://www.hackademint.org>. Ainsi, une première période de formation a été nécessaire. Elle était attendue de nous tous et a été globalement appréciée. 
 
 Notre objectif principal, au niveau des participations à des CTFs, était le BreizhCTF, pour évaluer les progrès par rapport à l'année dernière. Il s'est révélé que nous avons participé à bien plus de compétitions, dont :
 
@@ -105,8 +111,11 @@ Je sors donc de ce projet GATE® avec beaucoup d'expérience en cybersécurité 
 ## Bruno DENNEMONT
 
 Le projet GATE® a été très épanouissant. Cela a en effet été la première fois où je m'impliquais dans un projet sur une si longue durée. J'avais beaucoup d'attente dans ce projet, c'était le moment pour moi de me mettre à la cybersécurité.
-J'ai très vité réalisé qu'il allait falloir que je m'investisse au maximum pour progresser. Nous nous sommes formés en lisant beaucoup de documentation et grâce à des sites tels que Root-Me, NewbieContest et OverTheWire. Ce que j'ai le plus apprécié, ce sont les **Capture The Flag**s (CTFs). Ils consistent en des "enigmes" de cybersécurité et ont l'avantage de beaucoup faire réflechir (comme des énigmes). Ces jeux nous ont formés à pouvoir réfléchir en toutes circonstances, à être actif la nuit mais aussi de nombreuse compétence. Pour être au niveau, il faut avoir des connaissances dans un maximum de language (PHP, python, javascript ...), en réseau sur les trames et les faiblesses, en mathématiques pour la cryptographique ... . De plus, ils permettent de découvrir de nombreuses entreprises partout en France car les compétitions ont lieu partout et sont souvent précédées de forums et de conférence.
+
+J'ai très vité réalisé qu'il allait falloir que je m'investisse au maximum pour progresser. Nous nous sommes formés en lisant beaucoup de documentation et grâce à des sites tels que [Root-Me](https://www.root-me.org), [NewbieContest](https://www.newbiecontest.org) et [OverTheWire](http://overthewire.org/wargames/). Ce que j'ai le plus apprécié, ce sont les **Capture The Flag**s (CTFs). Ils consistent en des "enigmes" de cybersécurité et ont l'avantage de beaucoup faire réflechir (comme des énigmes). Ces jeux nous ont formés à pouvoir réfléchir en toutes circonstances, à être actif la nuit mais aussi de nombreuse compétence. Pour être au niveau, il faut avoir des connaissances dans un maximum de language (PHP, python, javascript ...), en réseau sur les trames et les faiblesses, en mathématiques pour la cryptographique ... . De plus, ils permettent de découvrir de nombreuses entreprises partout en France car les compétitions ont lieu partout et sont souvent précédées de forums et de conférence.
+
 J'ai très rapidement progressé et pu proposer des formations aux autres membres du club ce qui est encore plus formateur. Au final, il y a une grande différence entre effectuer un challenge et en proposer. Il faut se projeter et faire un très grand effort sur soi-même pour expliquer. 
+
 Mon bilan sur ce projet est plus que positif car il m'a permis d'acquérir des compétences et connaissances non négligeables que je n'aurai pas pu apprendre ailleurs. 
 
 ## Thomas DOUDAT
