@@ -40,13 +40,13 @@ L'équipe a été selectionnée par le client en début d'année, grâce à une 
 ![François Horta](images/photos/Francois.jpg){height=20%}
 
 #### Pôle Formation :
-![Thomas Doudat](images/photos/Thomas.jpg){height=20%} ![Arthur Boyer](images/photos/Arthur.jpg){height=20%}
+|![Thomas Doudat](images/photos/Thomas.jpg){height=20%} | ![Arthur Boyer](images/photos/Arthur.jpg){height=20%} |
 
 #### Trésorerie :
 ![Xavier-Henri Monier](images/photos/XH.jpg){height=20%}
 
 #### Communication :
-![Bruno Dennemont](images/photos/Bruno.jpg){height=20%} ![Gabriel Prévault](images/photos/Gabriel.jpg){height=20%}
+![Bruno Dennemont](images/photos/Bruno.jpg){height=20%} | ![Gabriel Prévault](images/photos/Gabriel.jpg){height=20%}
 
 #### Logistique :
 ![Alice Zhen](images/photos/Alice.jpg){height=20%}
