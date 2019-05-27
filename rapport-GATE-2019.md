@@ -34,17 +34,28 @@ HackademINT Accenture Security.
 
 # Équipe et organisation
 
-@LemonIce
-[Arthur]:images/photos/Arthur.jpg
-[Alice]:images/photos/Alice.jpg
-[Bruno]:images/photos/Bruno.jpg
+L'équipe a été selectionnée par le client en début d'année, grâce à une plateforme de recrutement (https://star2018.hackademint.org/) suivi d'un entretien. Voici les postes : 
 
-L'équipe a été selectionnée par le client en début d'année, grâce à une plateforme de recrutement (www.starhackademint.minet.net) suivi d'un entretien. Voici les postes : 
 #### Chef de Projet :
 ![François Horta](images/photos/Francois.jpg){height=50%}
 
 #### Pôle Formation :
-![Thomas Doudat](images/photos/Thomas.jpg){height=50%}
+![Thomas Doudat](images/photos/Thomas.jpg){height=50%} ![Arthur Boyer](images/photos/Arthur.jpg){height=50%}
+
+#### Trésorerie :
+![Xavier-Henri Monier](images/photos/XH.jpg){height=50%}
+
+#### Communication :
+![Bruno Dennemont](images/photos/Bruno.jpg){height=50%} ![Gabriel Prévault](images/photos/Gabriel.jpg){height=50%}
+
+#### Logistique :
+![Alice Zhen](images/photos/Alice.jpg){height=50%}
+
+#### Secrétariat :
+![Vincent Boisdon](images/photos/Vincent.jpg){height=50%}
+
+Des "Write-ups" ou comptes rendus des challenges auxquels l'équipe du GATE a participé était le livrable principalement attendu par le client. Bien que chaque membre du projet occupe une place différente au sein de l'équipe, nous participions tous, sans distinction de poste, aux épreuves auxquelles l'équipe était inscrite. Ainsi, la rédaction des comptes rendus était distribuée entre tous les membres, selon les challenges résolus par chacun.
+
 
 # Déroulement général
 
