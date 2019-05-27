@@ -35,6 +35,16 @@ HackademINT Accenture Security.
 # Équipe et organisation
 
 @LemonIce
+[Arthur]:images/photos/Arthur.jpg
+[Alice]:images/photos/Alice.jpg
+[Bruno]:images/photos/Bruno.jpg
+
+L'équipe a été selectionnée par le client en début d'année, grâce à une plateforme de recrutement (www.starhackademint.minet.net) suivi d'un entretien. Voici les postes : 
+#### Chef de Projet :
+![François Horta](images/photos/Francois.jpg){height=50%}
+
+#### Pôle Formation :
+![Thomas Doudat](images/photos/Thomas.jpg){height=50%}
 
 # Déroulement général
 
