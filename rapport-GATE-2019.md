@@ -482,3 +482,10 @@ Site pour déposer les writeups prêt : reste à les faire
 
 Faire une vidéo peut-être moins humoristique, il n'y a aura peut-être pas le son (vu sur Facebook)  
 Faire mieux passer le message de ce que fait le projet
+
+
+## Affiches diverses
+
+![Affiche de la vente de samoussas](images/affiches/samoussas.png){height=30%}
+
+![Affiche du café vie privée](images/affiches/affiche_v2.jpg){height=40%}
