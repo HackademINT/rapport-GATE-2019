@@ -20,11 +20,17 @@ titlepage-rule-color: "FFFFFF"
 titlepage-rule-height: 2
 colorlinks: true
 footer-left: "Telecom SudParis - GATE®"
+logo: "images/logo.png"
 ---
 
 # Introduction
 
-@Frazew
+Le projet GATE HackademINT 2019 est né de la passion d'une équipe pour la
+cybersécurité. A travers une formation continue et des challenges réguliers,
+nous avons pu remplir nos objectifs de développer nos connaissances mais aussi
+et surtout de développer le club HackademINT. Cette progression a abouti le 22
+mai à l'organisation du Café Vie Privée avec le désormais partenaire du club
+HackademINT Accenture Security.
 
 # Équipe et organisation
 
@@ -36,24 +42,31 @@ footer-left: "Telecom SudParis - GATE®"
 
 ## Réalisations et livrables
 
-@Bdenneu
+Les objectifs que nous avions étaient assez vaste. Nous nous sommes tout d'abord penché sur former le club pour qu'il puisse rapidement se développer. Le but était de très rapidement participer à des compétitions pour promouvoir le club et Télécom SudParis. 
+
+A force de faire des compétitions, nous avons commencé à obtenir des scores honorables pour des étudiants de première année, et assez régulier pour que nous soyions reconnu par les autres compétiteurs.
+
+Pour donner de la visibilité au club, nous avons modifié le site et y avons proposé régulièrement des Writes Ups (Correction personnelle de Challenge de CTFs qu'ils soient en ligne ou physique) et communiqué nos déplacements aux divers événements sur twitter.
+
+Pour le campus, nous avons choisi de proposer un *café vie privé*. L'idée était d'apprendre des moyens de se protéger (Comment chiffrer leur données, protéger leur vie privée). Nous avons proposé des ateliers tels que la création de clés USB tails en partenariat avec Accenture Security qui a proposé une table ronde sur la vie privée et de sponsoriser le club.
 
 ## Attentes vs Réalité
 
 Au vu des livrables attendus, les délais ont été respectés. Ils concernaient notamment le café vie privée, les compétitions auxquelles nous avons participé, leurs résultats et les *writeups*,  
 
-Afin de nous entraîner, nous avons, dès le début du projet, participé à des CTF en ligne. Cela a été l'occasion d'avoir un premier aperçu des différents domaines à découvrir. Même si cela a été quelque peu laborieux, nous avons alors commencé a rédiger nos premiers *writeups* et à les mettre en ligne sur notre site <https://www.hackademint.org>. Ainsi, une première période de formation a été nécessaire. Elle était attendue de nous tous et a été globalement appréciée. 
+Afin de nous entraîner, nous avons, dès le début du projet, participé à des CTFs en ligne. Cela a été l'occasion d'avoir un premier aperçu des différents domaines à découvrir. Même si cela a été quelque peu laborieux, nous avons alors commencé a rédiger nos premiers *writeups* et à les mettre en ligne sur notre site <https://www.hackademint.org>. Ainsi, une première période de formation a été nécessaire. Elle était attendue de nous tous et a été globalement appréciée. 
 
 Notre objectif principal, au niveau des participations à des CTFs, était le BreizhCTF, pour évaluer les progrès par rapport à l'année dernière. Il s'est révélé que nous avons participé à bien plus de compétitions, dont :
 
-* Mars@Hack - **1ère** place
-* Cybersecurity Night Out (Wavestone) - **1ère** place
-* INS'hAck 2019 - **2ème** place
-* HackSecuReims - **4ème** place
-* BreizhCTF - **11ème** sur une soixantaine d'équipe, l'année dernière, l'équipe GATE était arrivée à la 32ème place
-* CTF ESAIP HACK CHALLENGE 2019 - 13ème
-* NorzhCTF - 13ème
-* TRACS (Viarezo & DGSE) - 17ème
+* Cybersecurity Night Out (Wavestone - 28/11) : **1ère** place sur 9
+* TRACS (Viarezo & DGSE - 08/12) : 17ème sur 53
+* NorzhCTF (22/01) : 13ème sur 14
+* HackSecuReims (01/02) : **4ème** place sur 32
+* Mars@Hack (06/03) : **1ère** place sur 15
+* CTF ESAIP HACK CHALLENGE 2019 (16/03) : 13ème sur une trentaine d'équipes
+* BreizhCTF (16/04): **11ème** sur une soixantaine d'équipe, l'année dernière, l'équipe GATE était arrivée à la 32ème place
+* INS'hAck 2019 (02/05) : **2ème** place sur 22
+
 
 Même si des membres du club, ne faisant pas partie du projet GATE étaient parfois présents, plusieurs membres du GATE étaient à chaque fois présents pour constituer un équipe.
 
@@ -104,6 +117,14 @@ Je sors donc de ce projet GATE® avec beaucoup d'expérience en cybersécurité 
 
 ## Bruno DENNEMONT
 
+Le projet GATE® a été très épanouissant. Cela a en effet été la première fois où je m'impliquais dans un projet sur une si longue durée. J'avais beaucoup d'attente dans ce projet, c'était le moment pour moi de me mettre à la cybersécurité.
+
+J'ai très vité réalisé qu'il allait falloir que je m'investisse au maximum pour progresser. Nous nous sommes formés en lisant beaucoup de documentation et grâce à des sites tels que [Root-Me](https://www.root-me.org), [NewbieContest](https://www.newbiecontest.org) et [OverTheWire](http://overthewire.org/wargames/). Ce que j'ai le plus apprécié, ce sont les **Capture The Flag**s (CTFs). Ils consistent en des "enigmes" de cybersécurité et ont l'avantage de beaucoup faire réflechir (comme des énigmes). Ces jeux nous ont formés à pouvoir réfléchir en toutes circonstances, à être actif la nuit mais aussi de nombreuse compétence. Pour être au niveau, il faut avoir des connaissances dans un maximum de language (PHP, python, javascript ...), en réseau sur les trames et les faiblesses, en mathématiques pour la cryptographique ... . De plus, ils permettent de découvrir de nombreuses entreprises partout en France car les compétitions ont lieu partout et sont souvent précédées de forums et de conférence.
+
+J'ai très rapidement progressé et pu proposer des formations aux autres membres du club ce qui est encore plus formateur. Au final, il y a une grande différence entre effectuer un challenge et en proposer. Il faut se projeter et faire un très grand effort sur soi-même pour expliquer. 
+
+Mon bilan sur ce projet est plus que positif car il m'a permis d'acquérir des compétences et connaissances non négligeables que je n'aurai pas pu apprendre ailleurs. 
+
 ## Thomas DOUDAT
 
 Le GATE® HackademINT à été très enrichissant pour moi, sur de nombreux aspects. J'ai pu m'épanouir dans ce projet qui a su m'apporter tout ce que j'attendais de ce dernier.
@@ -121,6 +142,22 @@ Elle m'a d'autant plus motivé à faire grandir ce club qui a subi une explosion
 Au final, je ne tire que du bien de cette expérience qui en plus d'avoir été professionalisante et riche en émotions m'a également permise de développer de nombreuses compétences aussi bien non techniques que techniques.
 
 ## François HORTA
+
+En raison de ma passion pour l'informatique et la cybersécurité, le projet GATE
+HackademINT 2019 m'était apparu comme une évidence en début
+d'année. C'est donc assez naturellement que j'ai pris beaucoup de plaisir à
+développer mes compétences et celles de toute l'équipe à travers les formations
+du club HackademINT et les participations aux CTFs. 
+
+J'ai eu le rôle de chef de projet, et j'ai essayé de m'y tenir en dépit de mes
+autres responsabilités ailleurs. J'avais déjà eu l'occasion auparavant de gérer
+des équipes sur des projets concrets, mais l'utilisation de méthodes agiles
+comme nous l'avons fait était nouvelle et s'est avérée être une découverte intéressante.
+
+Au delà de la progression personnelle en matière de cybersécurité et de gestion
+projet, je tire surtout de ce GATE la satisfaction d'avoir aidé le club
+HackademINT à se développer et à obtenir une visibilité et une renommée indéniables
+sur la scène française des CTF. 
 
 ## Xavier-Henri MONIER
 Cela a été un plaisir de travailler sur ce projet technique, au sein d’un GATE® travaillant autour d’une thématique extrêmement intéressante et absente de l’enseignement de première année.
@@ -157,3 +194,291 @@ Les expériences vécues tout au long de l'année ont été très enrichissantes
 Au terme de cette année, je suis globalement satisfaite de ce que nous avons pu accomplir. Je suis reconnaissante de la chance que j'ai eu d'intégrer ce projet technique très formateur.
 
 # Conclusion
+
+\pagebreak
+
+# Annexes
+
+## CR réunion du 27/11/18
+
+Présentation du powerpoint de validation
+
+### Formation
+
+Cours "RE for beginners" pour débuter le reverse suggéré par Gregory Blanc.
+Evocation des formations et démos de sensibilisation pour le campus. Apprendre par exemple à chiffrer ses mails.
+
+### CTFs
+Point sur leCTF Wavestone du mercredi 28 et le Tracs qui sont les prochains CTF à arriver.
+
+Est-ce qu'on fera les qualifications pour la Nuit du hack ? Bon pour l'image, mais en fin d'année...
+
+Il faut produire des writeups de qualité et les rendre disponibles facilement.
+
+### TODO
+
+Pour la prochaine fois : il faut trouver une date de réunion, proposition : mercredi 12 decembre 17h.
+Il faudra un ordre du jour, avec les compte rendus des 2 ctf
+
+\pagebreak
+
+## CR réunion du 12/12/18
+
+### Actions faites
+Point fait sur les deux derniers ctf : Wavestone et TRACS
+
+### Suivi
+Aucun problème si certains se spécialisent, l’important c’est de se former là où on est en manque en CTF au niveau de l'équipe.
+Attention cependant à ne pas etre dépendant du club pour la formation.
+
+Penser à faire le planning au fur et à mesure : remplir ce que l’on fait dans le planning quand on le fait.
+
+\pagebreak
+
+## CR réunion du 28/01/19
+
+### NorzhCTF
+
+Décevant, pas assez de compétences en réseau pour accéder à la plateforme CTFd, et donc pas assez de temps pour faire les challenges (ex : rooter une machine Windows, se connecter sur un Kali, volatility).
+
+A quand même permis de découvrir des outils commme zmap, en situation réelle.
+
+Active Directory
+
+$\rightarrow$ cours de 3è année...
+
+
+### AESCTF
+
+Bruno a créé une plateforme en ligne de challenges de CTF concernant l'AES.
+Quelques challenges de découverte, avec documentation.
+
+Une dizaine de challenges en tout.
+
+Projet de faire des challenges sur les anneaux modulaires, avec de la doc en plus, ce qui n'est pas le cas sur StarHackademINT.
+
+
+### Formation pwn
+
+Fonctionnement général des buffer overflow, pour les CTFs.
+
+Première fois qu'on voit ça, points perdus sur d'autres CTFs.
+
+Résolution par injection ou en comprenant son fonctionnement (qui peut permettre de trouver un point d'injection).
+
+
+### Sponsors
+
+* Réponse avant début février pour Accenture.
+* Advance ?
+
+Postes de dépenses ? Aucun $\rightarrow$ voitures de l'école.
+
+Quand même vérifier si des voitures sont disponibles au moment du BreizhCTF.
+
+
+### Café cybersécurité
+
+Lockpicking à rajouter dans la liste des projets potentiels $\rightarrow$ pas forcément adapté en fait. Sinon, à présenter comme de la sensibilisation
+
+Mettre en place ???nginx pour faire du man-in-the-middle facilement
+Doivent accepter un certificat
+
+Nicolas: obfuscateur vba ?
+
+Présentation des idées :
+
+* man-in-the-middle : autorisation DISI ? Ne pas casser les mots de passe des gens ! Montrer qu'à partir d'autres hash, on peut faire ça, mais pas le faire directement. Voir pour des comptes eduroam tests avec la DISI ? Faire signer les gens qui participent.
+* vérification d'identité mails. Intérêt de PGP pour éviter l'usurpation d'identité
+* Présentation de Keepass. Pourquoi c'est utile ?
+
+Idées pas rajoutées...
+
+* Lockpicking ? 
+* RFID : Partenariat Intech ? 
+* Rubber Ducky
+* Malduino
+
+Voir pour la date...
+
+À bien contextualiser, rendre les gens concernés (sur eduroam, pas un autre réseau de test, mais avec **autorisation DISI**), présentation pas trop technique. 
+
+### Bilan
+
+Des progrès, mais se dépêcher sur le café vie privée, pour l'ADM = retour sur ce qui a été fait, justification de la participation aux CTF.
+
+### Autres
+
+Voir iCTF
+
+CTF physique du type escape game ?
+
+Lockpicking (épreuve BreizhCTF)
+
+\pagebreak
+
+## CR réunion du 26/02/19
+
+### Retour HackSecuReims
+
+Meilleur jusqu'ici, tout le monde a pu réussir à trouver quoi faire. 
+
+Échelonnage des difficultés et bonne ambiance.
+
+
+### Autres petits CTF
+
+Permettent de contribuer à CTFtime : TamuCTF, Sogeti, ...
+
+Sogeti : peu de challenges et assez compliqués
+
+
+### AESCTF
+
+Par Bruno. Modifications en fonction des retours.
+
+Inspiré par Root-Me et d'autres CTFs.
+
+Sur le github HackademINT
+
+> Mettre les solutions en privé peut-être
+
+### Partenariat Accenture Security
+
+Partenariat à hauteur de 1000€. 1000€ en plus en l'échange de l'organisation de 2 événements sur le campus (tables rondes) sur la cybersécurité, un avant les grandes vacances et une à la rentrée 2019. Thèmes : cyberintelligence, futur de la cybersécurité
+
+En discussion, pour 40 / 50 personnes pour que ce soit bon
+
+Création d'un Hackaton cyber [événement physique] pour Accenture par la fondation Mines-Télécom, on nous a proposé de le faire. À faire en même temps que le CTF de recrutement. Bonne visibilité
+
+Prix proposé pour le CTF : 3000 à 4000€
+
+Voir pour IMT Atlantique, Nancy, St-Étienne, Lille Douai (Santhacklaus)
+
+### Café vie privée
+
+G. Blanc et O. Berger
+
+> Date à fixer
+
+Faire une réunion pour voir ce qu'on veut faire, sûrement pas avant mai
+
+Et voir Mme. Nigaglioni
+
+### Local ?
+
+Pas de non définitif, voir avec les autres utilisateurs.
+
+Salle de réunion U7 :
+
+- Forum : pas de soucis
+- Sprint : en même temps que les ouvertures de Nova...
+- une liste ASINT l'utilise également
+
+
+### Formations
+
+- Reverse engineering à l'ENSIIE
+- Formation Flask
+- Formation RFID (matériel déjà là, à préparer d'abord)
+
+
+### Communication
+
+> Peut-être plus, sur les formations, montrer qu'on est actif
+
+Sur le café vie privée
+
+Projet d'une chaîne youtube HackademINT, stream des formations ?
+
+
+### Nouveau site
+
+Pour mieux indexer et présenter les writeups
+
+> Mots-clés et moteur de recherche
+
+
+### Prochaines actions
+
+- café cybersécurité
+- voir pour Sogeti en fonction du classement
+- faire une base commune de scripts (à venir avec les writeups), tout n'a pas à être forcément public, à choisir
+- prochain CTF physique : Mars@Hack
+
+\pagebreak
+
+## CR réunion du 26/03/19
+
+### CTFs
+
+**Mars@Hack :** 
+
+**ESAIPHack :**
+
+*À venir :*
+
+- leHACK : pas possible
+- Orange
+- INS'hAck
+- HACKLAB-ESGI CTF
+- ESIEA SECURE EDITION
+
+### Café vie privée
+
+Il faut avancer
+
+> Voir avec Mme. Nigaglioni pour la date rapidement
+
+Table ronde Accenture
+
+Démonstration d'interception de mdp WiFi : man in the middle  
+Aspect légal  
+Créer un portail sur lesquels les gens peuvent s'inscrire, mais faut prévenir d'abord pour éviter que les gens mettent les mot de passe qu'ils utilisent d'habitude  
+Mot de passe généré automatiquement, mais pas modifiable  
+Contexte du portail : questionnaire ? Redirige vers un gform ?  
+Faire des quiz, ou un CTF. Peut-être un lot, clé USB  
+
+> Ordinateur à l'accueil, ou DISI, ou MiNET    
+
+Montrer qu'on peut en prendre le contrôle  
+Mais aussi montrer qu'on peut sécuriser de manière simple  
+
+Demander un compte test à la DISI
+
+Masters spécialisés
+
+Branding clés USB : Accenture, HackademINT, Gate ?  
+
+Il faudra faire un retour dessus
+
+
+### Gestion des finances
+
+Réception des financements d'Accenture  
+Par la fondation Mines-Télécom
+
+Table ronde RGPD & données personnelles cette année au café vie privée : 1000€  
+L'année prochaine en octobre : une autre plus complète pour le reste des fonds
+
+Fondation MT intéressé par un Hackathon cyber : en discussion
+
+### L'IP Paris
+
+Projet de faire quelque chose en commun avec d'autres écoles  
+ENSTA, ENSAE, TPT et Centrale peuvent rediriger vers nous
+
+### BreizhCTF
+
+Problèmes d'inscription, seulement s'il y a des désistements
+
+### Niveau site
+
+<https://ctf.hackademint.org> : fbCTF, recrutement de l'année prochaine
+
+Site pour déposer les writeups prêt : reste à les faire
+
+### Clip de présentation
+
+Faire une vidéo peut-être moins humoristique, il n'y a aura peut-être pas le son (vu sur Facebook)  
+Faire mieux passer le message de ce que fait le projet
