@@ -52,14 +52,15 @@ Afin de nous entraîner, nous avons, dès le début du projet, participé à des
 
 Notre objectif principal, au niveau des participations à des CTFs, était le BreizhCTF, pour évaluer les progrès par rapport à l'année dernière. Il s'est révélé que nous avons participé à bien plus de compétitions, dont :
 
-* Mars@Hack - **1ère** place
-* Cybersecurity Night Out (Wavestone) - **1ère** place
-* INS'hAck 2019 - **2ème** place
-* HackSecuReims - **4ème** place
-* BreizhCTF - **11ème** sur une soixantaine d'équipe, l'année dernière, l'équipe GATE était arrivée à la 32ème place
-* CTF ESAIP HACK CHALLENGE 2019 - 13ème
-* NorzhCTF - 13ème
-* TRACS (Viarezo & DGSE) - 17ème
+* Cybersecurity Night Out (Wavestone - 28/11) : **1ère** place sur 9
+* TRACS (Viarezo & DGSE - 08/12) : 17ème sur 53
+* NorzhCTF (22/01) : 13ème sur 14
+* HackSecuReims (01/02) : **4ème** place sur 32
+* Mars@Hack (06/03) : **1ère** place sur 15
+* CTF ESAIP HACK CHALLENGE 2019 (16/03) : 13ème sur une trentaine d'équipes
+* BreizhCTF (16/04): **11ème** sur une soixantaine d'équipe, l'année dernière, l'équipe GATE était arrivée à la 32ème place
+* INS'hAck 2019 (02/05) : **2ème** place sur 22
+
 
 Même si des membres du club, ne faisant pas partie du projet GATE étaient parfois présents, plusieurs membres du GATE étaient à chaque fois présents pour constituer un équipe.
 
