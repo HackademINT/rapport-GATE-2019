@@ -67,11 +67,11 @@ Des "Write-ups" ou comptes rendus des challenges auxquels l'équipe du GATE a pa
 
 Au début de l'année, les membres du GATE® se réunissaient tous les mardis pour recevoir des formations de HackademINT et pour échanger sur leurs découvertes quant aux solutions qu'ils avaient mis en place pour résoudre les différents challenge du CTF de recrutement.
 
-Nous avons également fait de nombreux CTF en nous déplacant physiquement ou pas puis rédigés des comptes rendus des différentes épreuves pour faire profiter aux autres nos connaissances.
+Nous avons également particpé à de nombreuses compétitions CTF que ce soit en nous déplacant physiquement ou en travaillant à distance. Après ces compétions, nous avons rédigé des compte-rendus des différentes épreuves pour faire profiter les autres membres de l'équipe de nos découvertes.
 
-Un tournant majeur du GATE® a été l'acquisition du local HackademINT qui nous a permis pour ceux qui étaient encore actifs de nous réunir bien plus souvent et dans de bien meilleurs conditions, nous avons ainsi pu progresser beaucoup plus vite et plus efficacement.
+Un tournant majeur du GATE® a été l'acquisition du local HackademINT qui nous a permis de nous réunir bien plus souvent et dans de bien meilleurs conditions, nous permettant ainsi pu progresser beaucoup plus vite et plus efficacement.
 
-Nous avons enfin organisé le café vie privée avec notre partenaire : Accenture Security et animé les atteliers Tails et crackage de mot de passe Windows qui ont servi à sensibiliser les étudiants du campus à la cybersécurité.
+Nous avons enfin organisé le café vie privée avec notre partenaire : Accenture Security qui a organisé une table ronde. Nous avons complété l'évènement en animant des ateliers T.A.I.L.S. et crackage de mot de passe Windows qui ont servi à sensibiliser les étudiants comme le personnel du campus à la cybersécurité et l'hygiène numérique.
 
 ## Réalisations et livrables
 
