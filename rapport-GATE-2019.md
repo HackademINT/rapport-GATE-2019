@@ -184,3 +184,291 @@ Ainsi, le projet HackademINT 2019 m'a permis, au départ, de mieux découvrir la
 ## Alice ZHEN
 
 # Conclusion
+
+\pagebreak
+
+# Annexes
+
+## CR réunion du 27/11/18
+
+Présentation du powerpoint de validation
+
+### Formation
+
+Cours "RE for beginners" pour débuter le reverse suggéré par Gregory Blanc.
+Evocation des formations et démos de sensibilisation pour le campus. Apprendre par exemple à chiffrer ses mails.
+
+### CTFs
+Point sur leCTF Wavestone du mercredi 28 et le Tracs qui sont les prochains CTF à arriver.
+
+Est-ce qu'on fera les qualifications pour la Nuit du hack ? Bon pour l'image, mais en fin d'année...
+
+Il faut produire des writeups de qualité et les rendre disponibles facilement.
+
+### TODO
+
+Pour la prochaine fois : il faut trouver une date de réunion, proposition : mercredi 12 decembre 17h.
+Il faudra un ordre du jour, avec les compte rendus des 2 ctf
+
+\pagebreak
+
+## CR réunion du 12/12/18
+
+### Actions faites
+Point fait sur les deux derniers ctf : Wavestone et TRACS
+
+### Suivi
+Aucun problème si certains se spécialisent, l’important c’est de se former là où on est en manque en CTF au niveau de l'équipe.
+Attention cependant à ne pas etre dépendant du club pour la formation.
+
+Penser à faire le planning au fur et à mesure : remplir ce que l’on fait dans le planning quand on le fait.
+
+\pagebreak
+
+## CR réunion du 28/01/19
+
+### NorzhCTF
+
+Décevant, pas assez de compétences en réseau pour accéder à la plateforme CTFd, et donc pas assez de temps pour faire les challenges (ex : rooter une machine Windows, se connecter sur un Kali, volatility).
+
+A quand même permis de découvrir des outils commme zmap, en situation réelle.
+
+Active Directory
+
+$\rightarrow$ cours de 3è année...
+
+
+### AESCTF
+
+Bruno a créé une plateforme en ligne de challenges de CTF concernant l'AES.
+Quelques challenges de découverte, avec documentation.
+
+Une dizaine de challenges en tout.
+
+Projet de faire des challenges sur les anneaux modulaires, avec de la doc en plus, ce qui n'est pas le cas sur StarHackademINT.
+
+
+### Formation pwn
+
+Fonctionnement général des buffer overflow, pour les CTFs.
+
+Première fois qu'on voit ça, points perdus sur d'autres CTFs.
+
+Résolution par injection ou en comprenant son fonctionnement (qui peut permettre de trouver un point d'injection).
+
+
+### Sponsors
+
+* Réponse avant début février pour Accenture.
+* Advance ?
+
+Postes de dépenses ? Aucun $\rightarrow$ voitures de l'école.
+
+Quand même vérifier si des voitures sont disponibles au moment du BreizhCTF.
+
+
+### Café cybersécurité
+
+Lockpicking à rajouter dans la liste des projets potentiels $\rightarrow$ pas forcément adapté en fait. Sinon, à présenter comme de la sensibilisation
+
+Mettre en place ???nginx pour faire du man-in-the-middle facilement
+Doivent accepter un certificat
+
+Nicolas: obfuscateur vba ?
+
+Présentation des idées :
+
+* man-in-the-middle : autorisation DISI ? Ne pas casser les mots de passe des gens ! Montrer qu'à partir d'autres hash, on peut faire ça, mais pas le faire directement. Voir pour des comptes eduroam tests avec la DISI ? Faire signer les gens qui participent.
+* vérification d'identité mails. Intérêt de PGP pour éviter l'usurpation d'identité
+* Présentation de Keepass. Pourquoi c'est utile ?
+
+Idées pas rajoutées...
+
+* Lockpicking ? 
+* RFID : Partenariat Intech ? 
+* Rubber Ducky
+* Malduino
+
+Voir pour la date...
+
+À bien contextualiser, rendre les gens concernés (sur eduroam, pas un autre réseau de test, mais avec **autorisation DISI**), présentation pas trop technique. 
+
+### Bilan
+
+Des progrès, mais se dépêcher sur le café vie privée, pour l'ADM = retour sur ce qui a été fait, justification de la participation aux CTF.
+
+### Autres
+
+Voir iCTF
+
+CTF physique du type escape game ?
+
+Lockpicking (épreuve BreizhCTF)
+
+\pagebreak
+
+## CR réunion du 26/02/19
+
+### Retour HackSecuReims
+
+Meilleur jusqu'ici, tout le monde a pu réussir à trouver quoi faire. 
+
+Échelonnage des difficultés et bonne ambiance.
+
+
+### Autres petits CTF
+
+Permettent de contribuer à CTFtime : TamuCTF, Sogeti, ...
+
+Sogeti : peu de challenges et assez compliqués
+
+
+### AESCTF
+
+Par Bruno. Modifications en fonction des retours.
+
+Inspiré par Root-Me et d'autres CTFs.
+
+Sur le github HackademINT
+
+> Mettre les solutions en privé peut-être
+
+### Partenariat Accenture Security
+
+Partenariat à hauteur de 1000€. 1000€ en plus en l'échange de l'organisation de 2 événements sur le campus (tables rondes) sur la cybersécurité, un avant les grandes vacances et une à la rentrée 2019. Thèmes : cyberintelligence, futur de la cybersécurité
+
+En discussion, pour 40 / 50 personnes pour que ce soit bon
+
+Création d'un Hackaton cyber [événement physique] pour Accenture par la fondation Mines-Télécom, on nous a proposé de le faire. À faire en même temps que le CTF de recrutement. Bonne visibilité
+
+Prix proposé pour le CTF : 3000 à 4000€
+
+Voir pour IMT Atlantique, Nancy, St-Étienne, Lille Douai (Santhacklaus)
+
+### Café vie privée
+
+G. Blanc et O. Berger
+
+> Date à fixer
+
+Faire une réunion pour voir ce qu'on veut faire, sûrement pas avant mai
+
+Et voir Mme. Nigaglioni
+
+### Local ?
+
+Pas de non définitif, voir avec les autres utilisateurs.
+
+Salle de réunion U7 :
+
+- Forum : pas de soucis
+- Sprint : en même temps que les ouvertures de Nova...
+- une liste ASINT l'utilise également
+
+
+### Formations
+
+- Reverse engineering à l'ENSIIE
+- Formation Flask
+- Formation RFID (matériel déjà là, à préparer d'abord)
+
+
+### Communication
+
+> Peut-être plus, sur les formations, montrer qu'on est actif
+
+Sur le café vie privée
+
+Projet d'une chaîne youtube HackademINT, stream des formations ?
+
+
+### Nouveau site
+
+Pour mieux indexer et présenter les writeups
+
+> Mots-clés et moteur de recherche
+
+
+### Prochaines actions
+
+- café cybersécurité
+- voir pour Sogeti en fonction du classement
+- faire une base commune de scripts (à venir avec les writeups), tout n'a pas à être forcément public, à choisir
+- prochain CTF physique : Mars@Hack
+
+\pagebreak
+
+## CR réunion du 26/03/19
+
+### CTFs
+
+**Mars@Hack :** 
+
+**ESAIPHack :**
+
+*À venir :*
+
+- leHACK : pas possible
+- Orange
+- INS'hAck
+- HACKLAB-ESGI CTF
+- ESIEA SECURE EDITION
+
+### Café vie privée
+
+Il faut avancer
+
+> Voir avec Mme. Nigaglioni pour la date rapidement
+
+Table ronde Accenture
+
+Démonstration d'interception de mdp WiFi : man in the middle  
+Aspect légal  
+Créer un portail sur lesquels les gens peuvent s'inscrire, mais faut prévenir d'abord pour éviter que les gens mettent les mot de passe qu'ils utilisent d'habitude  
+Mot de passe généré automatiquement, mais pas modifiable  
+Contexte du portail : questionnaire ? Redirige vers un gform ?  
+Faire des quiz, ou un CTF. Peut-être un lot, clé USB  
+
+> Ordinateur à l'accueil, ou DISI, ou MiNET    
+
+Montrer qu'on peut en prendre le contrôle  
+Mais aussi montrer qu'on peut sécuriser de manière simple  
+
+Demander un compte test à la DISI
+
+Masters spécialisés
+
+Branding clés USB : Accenture, HackademINT, Gate ?  
+
+Il faudra faire un retour dessus
+
+
+### Gestion des finances
+
+Réception des financements d'Accenture  
+Par la fondation Mines-Télécom
+
+Table ronde RGPD & données personnelles cette année au café vie privée : 1000€  
+L'année prochaine en octobre : une autre plus complète pour le reste des fonds
+
+Fondation MT intéressé par un Hackathon cyber : en discussion
+
+### L'IP Paris
+
+Projet de faire quelque chose en commun avec d'autres écoles  
+ENSTA, ENSAE, TPT et Centrale peuvent rediriger vers nous
+
+### BreizhCTF
+
+Problèmes d'inscription, seulement s'il y a des désistements
+
+### Niveau site
+
+<https://ctf.hackademint.org> : fbCTF, recrutement de l'année prochaine
+
+Site pour déposer les writeups prêt : reste à les faire
+
+### Clip de présentation
+
+Faire une vidéo peut-être moins humoristique, il n'y a aura peut-être pas le son (vu sur Facebook)  
+Faire mieux passer le message de ce que fait le projet
