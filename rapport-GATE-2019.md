@@ -40,7 +40,35 @@ footer-left: "Telecom SudParis - GATE®"
 
 ## Attentes vs Réalité
 
-@gabery
+Au vu des livrables attendus, les délais ont été respectés. Ils concernaient notamment le café vie privée, les compétitions auxquelles nous avons participé, leurs résultats et les *writeups*,  
+
+Afin de nous entraîner, nous avons, dès le début du projet, participé à des CTF en ligne. Cela a été l'occasion d'avoir un premier aperçu des différents domaines à découvrir. Même si cela a été quelque peu laborieux, nous avons alors commencé a rédiger nos premiers *writeups* et à les mettre en ligne sur notre site <https://www.hackademint.org>. Ainsi, une première période de formation a été nécessaire. Elle était attendue de nous tous et a été globalement appréciée. 
+
+Notre objectif principal, au niveau des participations à des CTFs, était le BreizhCTF, pour évaluer les progrès par rapport à l'année dernière. Il s'est révélé que nous avons participé à bien plus de compétitions, dont :
+
+* Mars@Hack - **1ère** place
+* Cybersecurity Night Out (Wavestone) - **1ère** place
+* INS'hAck 2019 - **2ème** place
+* HackSecuReims - **4ème** place
+* BreizhCTF - **11ème** sur une soixantaine d'équipe, l'année dernière, l'équipe GATE était arrivée à la 32ème place
+* CTF ESAIP HACK CHALLENGE 2019 - 13ème
+* NorzhCTF - 13ème
+* TRACS (Viarezo & DGSE) - 17ème
+
+Même si des membres du club, ne faisant pas partie du projet GATE étaient parfois présents, plusieurs membres du GATE étaient à chaque fois présents pour constituer un équipe.
+
+Nous avions également initialement prévu d'organiser des rencontres autour du thème de l'hygiène numérique. Aucune date n'avait été prévue au début du projet.  Ce livrable a pris la forme d'un *café vie privée*. Nous avons ainsi pu organiser, le mercredi 22 mai, une table ronde avec notre partenaire Accenture Security. Cette table ronde a été accompagnée d'ateliers que nous avons choisis et animés.  
+Il s'est avéré que l'événement a été réussi, une trentaine de personnes était présente, et la table ronde a globalement plu, de même pour les ateliers.  
+Nous voulions ouvrir cet événement au plus grand nombre, aux élèves mais aussi au personnel et professeurs des deux écoles. Nous avons contacté les services de communication de l'école afin de transmettre le message, mais notre demande est malheureusement restée sans réponse...
+
+Concernant le budget, nous avions estimé que notre seule dépense allait concerner le déplacement au BreizhCTF en train, ç'a été le cas. Pour cela nous avons financé une partie des billets grâce à une vente de samoussas lors d'une scène ouverte organisée par le Bureau des Arts des écoles au foyer associatif.
+
+Nous comptions également avoir nos potentiels sponsors aux alentours de février, si nous devions en avoir. Il s'est avéré que Xavier-Henri, trésorier et responsable relations entreprises du projet, a commencé à négocier avec Accenture Security à cette période, le partenariat a été confirmé en mars / avril. Cela nous a également permis de planifier le café vie privée avec l'intervention d'Accenture Security, faisant partie du partenariat. Ce dernier permet aussi de remplir l'un de nos autres objectifs : aider le club HackademINT à se développer.  
+
+
+La comparaison entre ce que nous attendions et ce qui a été réalisé est donc plutôt bonne. Nous avions peut-être été trop ambitieux sur le café vie privée lors de certaines réunions où beaucoup d'idées avaient été proposées, mais l'événement a été, de notre point de vue et des retours que nous avons eu, réussi.  
+Les formations que nous avons suivies ont été utiles et ont très certainement participé aux bons résultats de l'équipe de cette année. 
+
 
 ## Relations humaines et management
 
