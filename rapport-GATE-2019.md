@@ -36,7 +36,7 @@ HackademINT Accenture Security.
 
 # Équipe et organisation
 
-L'équipe a été selectionnée par le client en début d'année, grâce à une plateforme de recrutement (https://star2018.hackademint.org/) suivi d'un entretien. Voici les postes : 
+L'équipe a été selectionnée par le client en début d'année, grâce à une plateforme de recrutement (https://star2018.hackademint.org/) suivi d'un entretien. Voici les postes :
 
 #### Chef de Projet :
 | François HORTA |
@@ -75,7 +75,7 @@ Nous avons enfin organisé le café vie privée avec notre partenaire : Accentur
 
 ## Réalisations et livrables
 
-Les objectifs que nous avions étaient assez vaste. Nous nous sommes tout d'abord penché sur former le club pour qu'il puisse rapidement se développer. Le but était de très rapidement participer à des compétitions pour promouvoir le club et Télécom SudParis. 
+Les objectifs que nous avions étaient assez vaste. Nous nous sommes tout d'abord penché sur former le club pour qu'il puisse rapidement se développer. Le but était de très rapidement participer à des compétitions pour promouvoir le club et Télécom SudParis.
 
 A force de faire des compétitions, nous avons commencé à obtenir des scores honorables pour des étudiants de première année, et suffisament réguliers pour que nous soyions reconnus par les autres compétiteurs.
 
@@ -85,9 +85,9 @@ Pour le campus, nous avons choisi de proposer un *café vie privé*. L'idée ét
 
 ## Attentes vs Réalité
 
-Au vu des livrables attendus, les délais ont été respectés. Ils concernaient notamment le café vie privée, les compétitions auxquelles nous avons participé, leurs résultats et les *writeups*,  
+Au vu des livrables attendus, les délais ont été respectés. Ils concernaient notamment le café vie privée, les compétitions auxquelles nous avons participé, leurs résultats et les *writeups*,
 
-Afin de nous entraîner, nous avons, dès le début du projet, participé à des CTFs en ligne. Cela a été l'occasion d'avoir un premier aperçu des différents domaines à découvrir. Même si cela a été quelque peu laborieux, nous avons alors commencé a rédiger nos premiers *writeups* et à les mettre en ligne sur notre site <https://www.hackademint.org>. Ainsi, une première période de formation a été nécessaire. Elle était attendue de nous tous et a été globalement appréciée. 
+Afin de nous entraîner, nous avons, dès le début du projet, participé à des CTFs en ligne. Cela a été l'occasion d'avoir un premier aperçu des différents domaines à découvrir. Même si cela a été quelque peu laborieux, nous avons alors commencé a rédiger nos premiers *writeups* et à les mettre en ligne sur notre site <https://www.hackademint.org>. Ainsi, une première période de formation a été nécessaire. Elle était attendue de nous tous et a été globalement appréciée.
 
 Notre objectif principal, au niveau des participations à des CTFs, était le BreizhCTF, pour évaluer les progrès par rapport à l'année dernière. Il s'est révélé que nous avons participé à bien plus de compétitions, dont :
 
@@ -102,22 +102,22 @@ Notre objectif principal, au niveau des participations à des CTFs, était le Br
 
 Même si des membres du club, ne faisant pas partie du projet GATE étaient parfois présents, plusieurs membres du GATE étaient à chaque fois présents pour constituer les équipes.
 
-Nous avions également initialement prévu d'organiser des rencontres autour du thème de l'hygiène numérique. Aucune date n'avait été prévue au début du projet.  Ce livrable a pris la forme d'un *café vie privée*. Nous avons ainsi pu organiser, le mercredi 22 mai, une table ronde avec notre partenaire Accenture Security. Cette table ronde a été accompagnée d'ateliers que nous avons choisis et animés.  
+Nous avions également initialement prévu d'organiser des rencontres autour du thème de l'hygiène numérique. Aucune date n'avait été prévue au début du projet.  Ce livrable a pris la forme d'un *café vie privée*. Nous avons ainsi pu organiser, le mercredi 22 mai, une table ronde avec notre partenaire Accenture Security. Cette table ronde a été accompagnée d'ateliers que nous avons choisis et animés.
 Il s'est avéré que l'événement a été réussi, une quarantaine de personnes étaient présentes, les ateliers semblent avoir grandement intéressé les étudiants et la table ronde a attiré élèves, professeurs et memebres de la DISI.
 Nous voulions ouvrir cet événement au plus grand nombre, aux élèves mais aussi au personnel et professeurs des deux écoles. Nous avons contacté les services de communication de l'école et du GATE afin de transmettre le message, mais nos demandes sont malheureusement restées sans réponses ...
 
 Concernant le budget, nous avions estimé que notre seule dépense allait concerner le déplacement au BreizhCTF en train. Pour cela nous avons financé une partie des billets grâce à une vente de samoussas lors d'une scène ouverte organisée par le Bureau des Arts des écoles au foyer associatif.
 
-Nous comptions également avoir nos potentiels sponsors aux alentours de février, si nous devions en avoir. Il s'est avéré que Xavier-Henri, trésorier et responsable relations entreprises du projet, a commencé à négocier avec différentes entreprises dès Octobre. Le partenariat choisi, avec Accenture Security, a été confirmé en mars / avril. Cela nous a également permis de planifier le café vie privée avec l'intervention d'Accenture Security, faisant partie du partenariat. Ce dernier permet aussi de remplir l'un de nos autres objectifs : aider le club HackademINT à se développer.  
+Nous comptions également avoir nos potentiels sponsors aux alentours de février, si nous devions en avoir. Il s'est avéré que Xavier-Henri, trésorier et responsable relations entreprises du projet, a commencé à négocier avec différentes entreprises dès Octobre. Le partenariat choisi, avec Accenture Security, a été confirmé en mars / avril. Cela nous a également permis de planifier le café vie privée avec l'intervention d'Accenture Security, faisant partie du partenariat. Ce dernier permet aussi de remplir l'un de nos autres objectifs : aider le club HackademINT à se développer.
 
 
-La comparaison entre ce que nous attendions et ce qui a été réalisé est donc plutôt bonne. Nous avions peut-être été trop ambitieux sur le café vie privée lors de certaines réunions où beaucoup d'idées avaient été proposées, mais l'événement a été, de notre point de vue et des retours que nous avons eu, réussi.  
-Les formations que nous avons suivies ont été utiles et ont très certainement participé aux bons résultats de l'équipe de cette année. 
+La comparaison entre ce que nous attendions et ce qui a été réalisé est donc plutôt bonne. Nous avions peut-être été trop ambitieux sur le café vie privée lors de certaines réunions où beaucoup d'idées avaient été proposées, mais l'événement a été, de notre point de vue et des retours que nous avons eu, réussi.
+Les formations que nous avons suivies ont été utiles et ont très certainement participé aux bons résultats de l'équipe de cette année.
 
 
 ## Relations humaines et management
 
-Les relations ont été très vite renforcées par le temps passé ensemble à se former et dans les compétitions elles-mêmes. Un esprit d’équipe s’est assez vite formé. Certains ont commencé à développer des facilités de travail en paire ou en trinôme pendant les compétitions et la cohésion en a été augmentée. 
+Les relations ont été très vite renforcées par le temps passé ensemble à se former et dans les compétitions elles-mêmes. Un esprit d’équipe s’est assez vite formé. Certains ont commencé à développer des facilités de travail en paire ou en trinôme pendant les compétitions et la cohésion en a été augmentée.
 Des activités de team building ont aussi eu lieu afin de continuer à souder l’équipe. Parmi celles-ci, on retrouve des repas festifs, des sorties au laser-game ainsi qu’à la patinoire. Sans oublier le temps passé en transport pour se rendre sur les lieux de compétition.
 Et cela a fonctionné puisque l’efficacité d’organisation et en compétition étaient au rendez-vous.
 Même les membres qui n’ont pas, par manque de temps ou d’envie, passé beaucoup de temps à s’investir dans le club sont restés actifs dans le GATE et en bonne entente avec le reste de l’effectif.
@@ -125,7 +125,12 @@ Même les membres qui n’ont pas, par manque de temps ou d’envie, passé beau
 
 ## Gestion des risques
 
-@patate
+Les risques rencontrés au cours du projet concernent principalement l'organisation. En effet, il s'agissait de rester en permanence à l'affût des CTFs à venir afin de respecter les dates d'inscription et prévoir le déplacement si nécessaire. Notre inscription au BreizhCTF à la fin de l'année a notamment été difficile. En effet, en raison d'une forte attractivité de ce CTF aussi bien pour les étudiants que pour les professionnels, les places sont parties dès les premières minutes suivant l'ouverture des inscriptions et nous n'avions pas réussi à obtenir de places malgré notre réactivité. Toutefois, nous avons par la suite contacté les organisateurs qui nous ont informé à la dernière minute qu'une place pour une équipe venait de se libérer. Nous avons ainsi eu la chance d'aller à Rennes pour participer à ce CTF que nous avions attendu depuis le début de l'année.
+
+Un autre risque était le risque humain. En effet, comme tout projet de groupe, chaque membre du groupe a une vision différente de l'implication qu'un tel projet nécessite. Cependant, chacun a fini par trouver sa façon de contribuer au projet au fil de l'année. Que ce soit l'implication dans les CTFs, la rédaction des writeups, la communication concernant notre projet, la négociation avec notre partenaire Accenture Security ou encore la réalisation des livrables, le travail à effectuer était varié et au final chacun a su contribuer à sa manière. Pour une grande partie d'entre nous, il s'agit du premier projet de groupe de cette ampleur auquel nous participons et ce projet nous a permis de réaliser toute l'importance de la planification et de l'organisation afin d'éviter les tensions.
+
+Au final, nous avons mené à bien les objectifs que nous nous étions fixés au début de l'année. Nous avons obtenu un résultat honorable au BreizhCTF, le café vie privée organisé avec Accenture Security fut un succès. Nous réalisons que ce projet n'aurait pu aboutir sans la volonté de chacun d'aider en cas de problème et de s'impliquer malgré les contraintes.
+
 
 ## Gestion de projet et suivi
 
@@ -156,7 +161,7 @@ franc succès.
 
 ## Bilan collectif
 
-Ce projet a eu trois effets principaux. 
+Ce projet a eu trois effets principaux.
 
 Tout d’abord concernant les membres de l’équipe, ceux-ci ont tous pu développer des compétences techniques dans le domaine de la cybersécurité mais également des capacités de travail d’équipe et de gestion de projet inhérentes à un travail de cette envergure.
 
@@ -172,7 +177,7 @@ HackademINT m'aura apporté une formation fort utile dans les domaines utiles en
 
 Tout les efforts fournis donnent de plaisants résultats et cela me satisfait beaucoup de penser que nous avons grandement amélioré le classement de l'équipe hackadem'INT par rapport aux autres années. Nous sommes désormais reconnus quand nous arrivons sur un CTF et sommes considérés comme des candidats sérieux et comme des adversaires à surveiller. Et cela est d'après moi la meilleure des récompenses pour tout le temps consacré à s'entrainer.
 
-L'autre moment fort enrichissant fût le café vie privée qui nous a permis d'apprendre à de nombreux élèves à se servir d'environnement sécurisés et de les sensibiliser grâce à la conférence de notre partenaire Accenture Security. J'ai pu à ce moment sentir à notre projet une utilité plus vaste que simplement personnelle ou pour la gloire du club et de l'école. Nous avons à ce moment été utiles à tous les gens du campus qui le souhaitaient. 
+L'autre moment fort enrichissant fût le café vie privée qui nous a permis d'apprendre à de nombreux élèves à se servir d'environnement sécurisés et de les sensibiliser grâce à la conférence de notre partenaire Accenture Security. J'ai pu à ce moment sentir à notre projet une utilité plus vaste que simplement personnelle ou pour la gloire du club et de l'école. Nous avons à ce moment été utiles à tous les gens du campus qui le souhaitaient.
 
 Je sors donc de ce projet GATE® avec beaucoup d'expérience en cybersécurité mais aussi en gestion de projet, fin prêt à former les 1As de l'an prochain pour qu'à leur tour ils puissent mener un projet semblable.
 
@@ -184,9 +189,9 @@ Le projet GATE® a été très épanouissant. Cela a en effet été la première
 
 J'ai très vité réalisé qu'il allait falloir que je m'investisse au maximum pour progresser. Nous nous sommes formés en lisant beaucoup de documentation et grâce à des sites tels que [Root-Me](https://www.root-me.org), [NewbieContest](https://www.newbiecontest.org) et [OverTheWire](http://overthewire.org/wargames/). Ce que j'ai le plus apprécié, ce sont les **Capture The Flag**s (CTFs). Ils consistent en des "enigmes" de cybersécurité et ont l'avantage de beaucoup faire réflechir (comme des énigmes). Ces jeux nous ont formés à pouvoir réfléchir en toutes circonstances, à être actif la nuit mais aussi de nombreuse compétence. Pour être au niveau, il faut avoir des connaissances dans un maximum de language (PHP, python, javascript ...), en réseau sur les trames et les faiblesses, en mathématiques pour la cryptographique ... . De plus, ils permettent de découvrir de nombreuses entreprises partout en France car les compétitions ont lieu partout et sont souvent précédées de forums et de conférence.
 
-J'ai très rapidement progressé et pu proposer des formations aux autres membres du club ce qui est encore plus formateur. Au final, il y a une grande différence entre effectuer un challenge et en proposer. Il faut se projeter et faire un très grand effort sur soi-même pour expliquer. 
+J'ai très rapidement progressé et pu proposer des formations aux autres membres du club ce qui est encore plus formateur. Au final, il y a une grande différence entre effectuer un challenge et en proposer. Il faut se projeter et faire un très grand effort sur soi-même pour expliquer.
 
-Mon bilan sur ce projet est plus que positif car il m'a permis d'acquérir des compétences et connaissances non négligeables que je n'aurai pas pu apprendre ailleurs. 
+Mon bilan sur ce projet est plus que positif car il m'a permis d'acquérir des compétences et connaissances non négligeables que je n'aurai pas pu apprendre ailleurs.
 
 ## Thomas DOUDAT
 
@@ -210,7 +215,7 @@ En raison de ma passion pour l'informatique et la cybersécurité, le projet GAT
 HackademINT 2019 m'était apparu comme une évidence en début
 d'année. C'est donc assez naturellement que j'ai pris beaucoup de plaisir à
 développer mes compétences et celles de toute l'équipe à travers les formations
-du club HackademINT et les participations aux CTFs. 
+du club HackademINT et les participations aux CTFs.
 
 J'ai eu le rôle de chef de projet, et j'ai essayé de m'y tenir en dépit de mes
 autres responsabilités ailleurs. J'avais déjà eu l'occasion auparavant de gérer
@@ -220,7 +225,7 @@ comme nous l'avons fait était nouvelle et s'est avérée être une découverte 
 Au delà de la progression personnelle en matière de cybersécurité et de gestion
 projet, je tire surtout de ce GATE la satisfaction d'avoir aidé le club
 HackademINT à se développer et à obtenir une visibilité et une renommée indéniables
-sur la scène française des CTF. 
+sur la scène française des CTF.
 
 ## Xavier-Henri MONIER
 Cela a été un plaisir de travailler sur ce projet technique, au sein d’un GATE® travaillant autour d’une thématique extrêmement intéressante et absente de l’enseignement de première année.
@@ -235,7 +240,7 @@ En résumé, ce projet m’a permis de développer trois skill sets en parallèl
 
 ## Gabriel PRÉVAULT
 
-Le projet GATE a été pour moi la première fois que je me suis investi dans un projet sur une si longue période. L'idée initiale d'HackademINT 2019 m'avait assez intéressé et j'ai pris beaucoup de plaisir à acquérir de nouvelles connaissances grâce aux formations que nous avons effectuées au début du projet et aux compétitions en ligne auxquelles nous avons participé. 
+Le projet GATE a été pour moi la première fois que je me suis investi dans un projet sur une si longue période. L'idée initiale d'HackademINT 2019 m'avait assez intéressé et j'ai pris beaucoup de plaisir à acquérir de nouvelles connaissances grâce aux formations que nous avons effectuées au début du projet et aux compétitions en ligne auxquelles nous avons participé.
 
 Cette expérience m'a également permis de me rendre vraiment compte des difficultés que l'on peut rencontrer lorsque l'on doit mener à bien un projet de groupe. Pour ma part, cela s'est notamment ressenti lors de l'organisation du café vie privée. J'ai ressenti un manque de communication et d'organisation au sein de l'équipe, mais cela n'a pas empêché l'événement d'être un succès. J'ai, de plus, eu du mal à trouver ma place dans le groupe et au fur et à mesure de l'année, je me suis désintéressé du club HackademINT, qui reste fortement lié au projet GATE.
 
@@ -248,7 +253,7 @@ Ainsi, le projet HackademINT 2019 m'a permis, au départ, de mieux découvrir la
 
 J'ai intégré le GATE HackademINT en début d'année avec comme motivation principale la possibilité de développer à travers ce projet des compétences techniques.
 
-Si les premiers mois ont été difficiles dans la mesure où il a fallu développer des automatismes techniques et assimiler une importante variété de connaissances, j'ai pu atteindre au cours de l'année une zone de confort à partir de laquelle il m'était bien plus aisé de continuer à progresser. 
+Si les premiers mois ont été difficiles dans la mesure où il a fallu développer des automatismes techniques et assimiler une importante variété de connaissances, j'ai pu atteindre au cours de l'année une zone de confort à partir de laquelle il m'était bien plus aisé de continuer à progresser.
 
 Les nombreuses compétitions auxquelles nous avons participé partout en France m'ont permis de découvrir et d'apprécier le vaste milieu de la cybersécurité.
 
@@ -357,14 +362,14 @@ Présentation des idées :
 
 Idées pas rajoutées...
 
-* Lockpicking ? 
-* RFID : Partenariat Intech ? 
+* Lockpicking ?
+* RFID : Partenariat Intech ?
 * Rubber Ducky
 * Malduino
 
 Voir pour la date...
 
-À bien contextualiser, rendre les gens concernés (sur eduroam, pas un autre réseau de test, mais avec **autorisation DISI**), présentation pas trop technique. 
+À bien contextualiser, rendre les gens concernés (sur eduroam, pas un autre réseau de test, mais avec **autorisation DISI**), présentation pas trop technique.
 
 ### Bilan
 
@@ -384,7 +389,7 @@ Lockpicking (épreuve BreizhCTF)
 
 ### Retour HackSecuReims
 
-Meilleur jusqu'ici, tout le monde a pu réussir à trouver quoi faire. 
+Meilleur jusqu'ici, tout le monde a pu réussir à trouver quoi faire.
 
 Échelonnage des difficultés et bonne ambiance.
 
@@ -475,7 +480,7 @@ Pour mieux indexer et présenter les writeups
 
 ### CTFs
 
-**Mars@Hack :** 
+**Mars@Hack :**
 
 **ESAIPHack :**
 
@@ -495,40 +500,40 @@ Il faut avancer
 
 Table ronde Accenture
 
-Démonstration d'interception de mdp WiFi : man in the middle  
-Aspect légal  
-Créer un portail sur lesquels les gens peuvent s'inscrire, mais faut prévenir d'abord pour éviter que les gens mettent les mot de passe qu'ils utilisent d'habitude  
-Mot de passe généré automatiquement, mais pas modifiable  
-Contexte du portail : questionnaire ? Redirige vers un gform ?  
-Faire des quiz, ou un CTF. Peut-être un lot, clé USB  
+Démonstration d'interception de mdp WiFi : man in the middle
+Aspect légal
+Créer un portail sur lesquels les gens peuvent s'inscrire, mais faut prévenir d'abord pour éviter que les gens mettent les mot de passe qu'ils utilisent d'habitude
+Mot de passe généré automatiquement, mais pas modifiable
+Contexte du portail : questionnaire ? Redirige vers un gform ?
+Faire des quiz, ou un CTF. Peut-être un lot, clé USB
 
-> Ordinateur à l'accueil, ou DISI, ou MiNET    
+> Ordinateur à l'accueil, ou DISI, ou MiNET
 
-Montrer qu'on peut en prendre le contrôle  
-Mais aussi montrer qu'on peut sécuriser de manière simple  
+Montrer qu'on peut en prendre le contrôle
+Mais aussi montrer qu'on peut sécuriser de manière simple
 
 Demander un compte test à la DISI
 
 Masters spécialisés
 
-Branding clés USB : Accenture, HackademINT, Gate ?  
+Branding clés USB : Accenture, HackademINT, Gate ?
 
 Il faudra faire un retour dessus
 
 
 ### Gestion des finances
 
-Réception des financements d'Accenture  
+Réception des financements d'Accenture
 Par la fondation Mines-Télécom
 
-Table ronde RGPD & données personnelles cette année au café vie privée : 1000€  
+Table ronde RGPD & données personnelles cette année au café vie privée : 1000€
 L'année prochaine en octobre : une autre plus complète pour le reste des fonds
 
 Fondation MT intéressé par un Hackathon cyber : en discussion
 
 ### L'IP Paris
 
-Projet de faire quelque chose en commun avec d'autres écoles  
+Projet de faire quelque chose en commun avec d'autres écoles
 ENSTA, ENSAE, TPT et Centrale peuvent rediriger vers nous
 
 ### BreizhCTF
@@ -543,7 +548,7 @@ Site pour déposer les writeups prêt : reste à les faire
 
 ### Clip de présentation
 
-Faire une vidéo peut-être moins humoristique, il n'y a aura peut-être pas le son (vu sur Facebook)  
+Faire une vidéo peut-être moins humoristique, il n'y a aura peut-être pas le son (vu sur Facebook)
 Faire mieux passer le message de ce que fait le projet
 
 
