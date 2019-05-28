@@ -49,16 +49,27 @@ L'équipe a été selectionnée par le client en début d'année, grâce à une 
 | ![Thomas Doudat](images/photos/Thomas.jpg){height=20%} | ![Arthur Boyer](images/photos/Arthur.jpg){height=20%} |
 
 #### Trésorerie :
-![Xavier-Henri Monier](images/photos/XH.jpg){height=20%}
+| Xavier-Henri MONIER |
+| :-: |
+| ![Xavier-Henri Monier](images/photos/XH.jpg){height=20%} |
+
 
 #### Communication :
-![Bruno Dennemont](images/photos/Bruno.jpg){height=20%} | ![Gabriel Prévault](images/photos/Gabriel.jpg){height=20%}
+| Bruno DENNEMONT | Gabriel PREVAULT |
+| :-: | :-: |
+| ![Bruno Dennemont](images/photos/Bruno.jpg){height=20%} | ![Gabriel Prévault](images/photos/Gabriel.jpg){height=20%} |
+
 
 #### Logistique :
-![Alice Zhen](images/photos/Alice.jpg){height=20%}
+| Alice ZHEN |
+| :-: |
+| ![Alice Zhen](images/photos/Alice.jpg){height=20%} |
+
 
 #### Secrétariat :
-![Vincent Boisdon](images/photos/Vincent.jpg){height=20%}
+| Vincent BOISDON |
+| :-: |
+| ![Vincent Boisdon](images/photos/Vincent.jpg){height=20%} |
 
 Des "Write-ups" ou comptes rendus des challenges auxquels l'équipe du GATE a participé était le livrable principalement attendu par le client. Bien que chaque membre du projet occupe une place différente au sein de l'équipe, nous participions tous, sans distinction de poste, aux épreuves auxquelles l'équipe était inscrite. Ainsi, la rédaction des comptes rendus était distribuée entre tous les membres, selon les challenges résolus par chacun.
 
