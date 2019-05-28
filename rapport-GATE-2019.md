@@ -21,6 +21,7 @@ titlepage-rule-height: 2
 colorlinks: true
 footer-left: "Telecom SudParis - GATE®"
 logo: "images/logo.png"
+numbersections: true
 ---
 
 # Introduction
@@ -59,30 +60,28 @@ L'équipe a été selectionnée par le client en début d'année, grâce à une 
 | :-: | :-: |
 | ![Bruno Dennemont](images/photos/Bruno.jpg){height=20%} | ![Gabriel Prévault](images/photos/Gabriel.jpg){height=20%} |
 
-
 #### Logistique :
 | Alice ZHEN |
 | :-: |
 | ![Alice Zhen](images/photos/Alice.jpg){height=20%} |
-
 
 #### Secrétariat :
 | Vincent BOISDON |
 | :-: |
 | ![Vincent Boisdon](images/photos/Vincent.jpg){height=20%} |
 
-Des "Write-ups" ou comptes rendus des challenges auxquels l'équipe du GATE a participé était le livrable principalement attendu par le client. Bien que chaque membre du projet occupe une place différente au sein de l'équipe, nous participions tous, sans distinction de poste, aux épreuves auxquelles l'équipe était inscrite. Ainsi, la rédaction des comptes rendus était distribuée entre tous les membres, selon les challenges résolus par chacun.
+Des "Write-ups" ou comptes rendus des challenges auxquels l'équipe du GATE a participé étaient l'un des livrables principalement attendu par le client. Bien que chaque membre du projet occupe une place différente au sein de l'équipe, nous participions tous, sans distinction de poste, aux épreuves auxquelles l'équipe était inscrite. Ainsi, la rédaction des comptes rendus était distribuée entre tous les membres, selon les challenges résolus par chacun.
 
 
 # Déroulement général
 
-Au début de l'année, les membres du GATE® se réunissaient tous les mardis pour recevoir des formations de HackademINT et pour échanger sur leurs découvertes quant aux solutions qu'ils avaient mis en place pour résoudre les différents challenge du CTF de recrutement.
+Pour une bonne partie de l'année, les membres du GATE® se réunissaient tous les mardi pour recevoir des formations du club HackademINT et pour échanger sur leurs découvertes quant aux solutions qu'ils avaient mises en place pour résoudre les différents challenges du CTF de recrutement.
 
 Nous avons également particpé à de nombreuses compétitions CTF que ce soit en nous déplacant physiquement ou en travaillant à distance. Après ces compétions, nous avons rédigé des compte-rendus des différentes épreuves pour faire profiter les autres membres de l'équipe de nos découvertes.
 
-Un tournant majeur du GATE® a été l'acquisition du local HackademINT qui nous a permis de nous réunir bien plus souvent et dans de bien meilleurs conditions, nous permettant ainsi pu progresser beaucoup plus vite et plus efficacement.
+Un tournant majeur du GATE® a été l'acquisition du local HackademINT qui nous a permis de nous réunir bien plus souvent et dans de bien meilleures conditions, nous permettant ainsi de progresser beaucoup plus vite et plus efficacement.
 
-Nous avons enfin organisé le café vie privée avec notre partenaire : Accenture Security qui a organisé une table ronde. Nous avons complété l'évènement en animant des ateliers T.A.I.L.S. et crackage de mot de passe Windows qui ont servi à sensibiliser les étudiants comme le personnel du campus à la cybersécurité et l'hygiène numérique.
+Nous avons enfin organisé le café vie privée avec notre partenaire Accenture Security qui y a organisé une table ronde. Nous avons complété l'évènement en animant des ateliers Tails et crackage de mot de passe Windows qui ont servi à sensibiliser les étudiants comme le personnel du campus à la cybersécurité et l'hygiène numérique.
 
 ## Réalisations et livrables
 
@@ -92,11 +91,11 @@ A force de faire des compétitions, nous avons commencé à obtenir des scores h
 
 Pour donner de la visibilité au club, nous avons modifié le site <https://www.hackademint.org> et y avons proposé régulièrement des Writes Ups (Correction personnelle de Challenge de CTFs qu'ils soient en ligne ou physique) et communiqué nos déplacements aux divers événements sur twitter.
 
-Pour le campus, nous avons choisi de proposer un *café vie privé*. L'idée était d'apprendre des moyens de se protéger (Comment chiffrer leur données, protéger leur vie privée). Nous avons proposé des ateliers tels que la création de clés USB tails en partenariat avec Accenture Security qui a proposé une table ronde sur la vie privée et de sponsoriser le club.
+Pour le campus, nous avons choisi de proposer un *café vie privé*. L'idée était d'apprendre des moyens de se protéger (Comment chiffrer ses données, protéger sa vie privée). Nous avons proposé des ateliers tels que la création de clés USB Tails, le tout en partenariat avec Accenture Security qui a proposé une table ronde sur la vie privée.
 
 ## Attentes vs Réalité
 
-Au vu des livrables attendus, les délais ont été respectés. Ils concernaient notamment le café vie privée, les compétitions auxquelles nous avons participé, leurs résultats et les *writeups*,
+Au vu des livrables attendus, les délais ont été respectés. Ils concernaient notamment le café vie privée, les compétitions auxquelles nous avons participé, leurs résultats et les *writeups*.
 
 Afin de nous entraîner, nous avons, dès le début du projet, participé à des CTFs en ligne. Cela a été l'occasion d'avoir un premier aperçu des différents domaines à découvrir. Même si cela a été quelque peu laborieux, nous avons alors commencé a rédiger nos premiers *writeups* et à les mettre en ligne sur notre site <https://www.hackademint.org>. Ainsi, une première période de formation a été nécessaire. Elle était attendue de nous tous et a été globalement appréciée.
 
@@ -114,13 +113,12 @@ Notre objectif principal, au niveau des participations à des CTFs, était le Br
 Même si des membres du club, ne faisant pas partie du projet GATE étaient parfois présents, plusieurs membres du GATE étaient à chaque fois présents pour constituer les équipes.
 
 Nous avions également initialement prévu d'organiser des rencontres autour du thème de l'hygiène numérique. Aucune date n'avait été prévue au début du projet.  Ce livrable a pris la forme d'un *café vie privée*. Nous avons ainsi pu organiser, le mercredi 22 mai, une table ronde avec notre partenaire Accenture Security. Cette table ronde a été accompagnée d'ateliers que nous avons choisis et animés.
-Il s'est avéré que l'événement a été réussi, une quarantaine de personnes étaient présentes, les ateliers semblent avoir grandement intéressé les étudiants et la table ronde a attiré élèves, professeurs et memebres de la DISI.
+Il s'est avéré que l'événement a été réussi, une quarantaine de personnes étaient présentes, les ateliers semblent avoir grandement intéressé les étudiants et la table ronde a attiré élèves, professeurs et membres de la DISI.
 Nous voulions ouvrir cet événement au plus grand nombre, aux élèves mais aussi au personnel et professeurs des deux écoles. Nous avons contacté les services de communication de l'école et du GATE afin de transmettre le message, mais nos demandes sont malheureusement restées sans réponses ...
 
 Concernant le budget, nous avions estimé que notre seule dépense allait concerner le déplacement au BreizhCTF en train. Pour cela nous avons financé une partie des billets grâce à une vente de samoussas lors d'une scène ouverte organisée par le Bureau des Arts des écoles au foyer associatif.
 
 Nous comptions également avoir nos potentiels sponsors aux alentours de février, si nous devions en avoir. Il s'est avéré que Xavier-Henri, trésorier et responsable relations entreprises du projet, a commencé à négocier avec différentes entreprises dès Octobre. Le partenariat choisi, avec Accenture Security, a été confirmé en mars / avril. Cela nous a également permis de planifier le café vie privée avec l'intervention d'Accenture Security, faisant partie du partenariat. Ce dernier permet aussi de remplir l'un de nos autres objectifs : aider le club HackademINT à se développer.
-
 
 La comparaison entre ce que nous attendions et ce qui a été réalisé est donc plutôt bonne. Nous avions peut-être été trop ambitieux sur le café vie privée lors de certaines réunions où beaucoup d'idées avaient été proposées, mais l'événement a été, de notre point de vue et des retours que nous avons eu, réussi.
 Les formations que nous avons suivies ont été utiles et ont très certainement participé aux bons résultats de l'équipe de cette année.
@@ -131,7 +129,7 @@ Les formations que nous avons suivies ont été utiles et ont très certainement
 Les relations ont été très vite renforcées par le temps passé ensemble à se former et dans les compétitions elles-mêmes. Un esprit d’équipe s’est assez vite formé. Certains ont commencé à développer des facilités de travail en paire ou en trinôme pendant les compétitions et la cohésion en a été augmentée.
 Des activités de team building ont aussi eu lieu afin de continuer à souder l’équipe. Parmi celles-ci, on retrouve des repas festifs, des sorties au laser-game ainsi qu’à la patinoire. Sans oublier le temps passé en transport pour se rendre sur les lieux de compétition.
 Et cela a fonctionné puisque l’efficacité d’organisation et en compétition étaient au rendez-vous.
-Même les membres qui n’ont pas, par manque de temps ou d’envie, passé beaucoup de temps à s’investir dans le club sont restés actifs dans le GATE et en bonne entente avec le reste de l’effectif.
+Même les membres qui n’ont pas, par manque de temps ou d’envie, passé beaucoup de temps à s’investir dans le club sont restés actifs dans le GATE® et en bonne entente avec le reste de l’effectif.
 
 
 ## Gestion des risques
@@ -155,7 +153,7 @@ mensuels avec notre tuteur permettaient de faire le point sur les projets pour
 lesquels cette approche agile ne s'appliquait pas : l'organisation du Café Vie
 Privée et la recherche de partenariats.
 
-L'approche agile pour les CTFs et la formation s'est avérée particulièrement
+Cette approche de gestion de projet pour les CTFs et la formation s'est avérée particulièrement
 porteuse et il semble que ce choix était bien pertinent. L'approche plus
 traditionnelle de gestion de projet adoptée pour les autres réalisations a
 rapidement montré ses défauts : la deadline lointaine du Café Vie Privée en a
@@ -280,8 +278,6 @@ Les nombreuses compétitions auxquelles nous avons participé partout en France 
 Les expériences vécues tout au long de l'année ont été très enrichissantes autant d'un point de vue technique qu'humain. En effet la diversité des challenges rencontrés permet de toujours avoir un domaine à approfondir et pousse à s'améliorer sans se reposer sur ses acquis.
 
 Au terme de cette année, je suis globalement satisfaite de ce que nous avons pu accomplir. Je suis reconnaissante de la chance que j'ai eu d'intégrer ce projet technique très formateur.
-
-# Conclusion
 
 \pagebreak
 
