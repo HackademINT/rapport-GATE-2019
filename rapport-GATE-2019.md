@@ -77,9 +77,9 @@ Nous avons enfin organisé le café vie privée avec notre partenaire : Accentur
 
 Les objectifs que nous avions étaient assez vaste. Nous nous sommes tout d'abord penché sur former le club pour qu'il puisse rapidement se développer. Le but était de très rapidement participer à des compétitions pour promouvoir le club et Télécom SudParis. 
 
-A force de faire des compétitions, nous avons commencé à obtenir des scores honorables pour des étudiants de première année, et assez régulier pour que nous soyions reconnu par les autres compétiteurs.
+A force de faire des compétitions, nous avons commencé à obtenir des scores honorables pour des étudiants de première année, et suffisament réguliers pour que nous soyions reconnus par les autres compétiteurs.
 
-Pour donner de la visibilité au club, nous avons modifié le site et y avons proposé régulièrement des Writes Ups (Correction personnelle de Challenge de CTFs qu'ils soient en ligne ou physique) et communiqué nos déplacements aux divers événements sur twitter.
+Pour donner de la visibilité au club, nous avons modifié le site <https://www.hackademint.org> et y avons proposé régulièrement des Writes Ups (Correction personnelle de Challenge de CTFs qu'ils soient en ligne ou physique) et communiqué nos déplacements aux divers événements sur twitter.
 
 Pour le campus, nous avons choisi de proposer un *café vie privé*. L'idée était d'apprendre des moyens de se protéger (Comment chiffrer leur données, protéger leur vie privée). Nous avons proposé des ateliers tels que la création de clés USB tails en partenariat avec Accenture Security qui a proposé une table ronde sur la vie privée et de sponsoriser le club.
 
@@ -93,7 +93,6 @@ Notre objectif principal, au niveau des participations à des CTFs, était le Br
 
 * Cybersecurity Night Out (Wavestone - 28/11) : **1ère** place sur 9
 * TRACS (Viarezo & DGSE - 08/12) : 17ème sur 53
-* NorzhCTF (22/01) : 13ème sur 14
 * HackSecuReims (01/02) : **4ème** place sur 32
 * Mars@Hack (06/03) : **1ère** place sur 15
 * CTF ESAIP HACK CHALLENGE 2019 (16/03) : 13ème sur une trentaine d'équipes
@@ -101,15 +100,15 @@ Notre objectif principal, au niveau des participations à des CTFs, était le Br
 * INS'hAck 2019 (02/05) : **2ème** place sur 22
 
 
-Même si des membres du club, ne faisant pas partie du projet GATE étaient parfois présents, plusieurs membres du GATE étaient à chaque fois présents pour constituer un équipe.
+Même si des membres du club, ne faisant pas partie du projet GATE étaient parfois présents, plusieurs membres du GATE étaient à chaque fois présents pour constituer les équipes.
 
 Nous avions également initialement prévu d'organiser des rencontres autour du thème de l'hygiène numérique. Aucune date n'avait été prévue au début du projet.  Ce livrable a pris la forme d'un *café vie privée*. Nous avons ainsi pu organiser, le mercredi 22 mai, une table ronde avec notre partenaire Accenture Security. Cette table ronde a été accompagnée d'ateliers que nous avons choisis et animés.  
-Il s'est avéré que l'événement a été réussi, une trentaine de personnes était présente, et la table ronde a globalement plu, de même pour les ateliers.  
-Nous voulions ouvrir cet événement au plus grand nombre, aux élèves mais aussi au personnel et professeurs des deux écoles. Nous avons contacté les services de communication de l'école afin de transmettre le message, mais notre demande est malheureusement restée sans réponse...
+Il s'est avéré que l'événement a été réussi, une quarantaine de personnes étaient présentes, les ateliers semblent avoir grandement intéressé les étudiants et la table ronde a attiré élèves, professeurs et memebres de la DISI.
+Nous voulions ouvrir cet événement au plus grand nombre, aux élèves mais aussi au personnel et professeurs des deux écoles. Nous avons contacté les services de communication de l'école et du GATE afin de transmettre le message, mais nos demandes sont malheureusement restées sans réponses ...
 
-Concernant le budget, nous avions estimé que notre seule dépense allait concerner le déplacement au BreizhCTF en train, ç'a été le cas. Pour cela nous avons financé une partie des billets grâce à une vente de samoussas lors d'une scène ouverte organisée par le Bureau des Arts des écoles au foyer associatif.
+Concernant le budget, nous avions estimé que notre seule dépense allait concerner le déplacement au BreizhCTF en train. Pour cela nous avons financé une partie des billets grâce à une vente de samoussas lors d'une scène ouverte organisée par le Bureau des Arts des écoles au foyer associatif.
 
-Nous comptions également avoir nos potentiels sponsors aux alentours de février, si nous devions en avoir. Il s'est avéré que Xavier-Henri, trésorier et responsable relations entreprises du projet, a commencé à négocier avec Accenture Security à cette période, le partenariat a été confirmé en mars / avril. Cela nous a également permis de planifier le café vie privée avec l'intervention d'Accenture Security, faisant partie du partenariat. Ce dernier permet aussi de remplir l'un de nos autres objectifs : aider le club HackademINT à se développer.  
+Nous comptions également avoir nos potentiels sponsors aux alentours de février, si nous devions en avoir. Il s'est avéré que Xavier-Henri, trésorier et responsable relations entreprises du projet, a commencé à négocier avec différentes entreprises dès Octobre. Le partenariat choisi, avec Accenture Security, a été confirmé en mars / avril. Cela nous a également permis de planifier le café vie privée avec l'intervention d'Accenture Security, faisant partie du partenariat. Ce dernier permet aussi de remplir l'un de nos autres objectifs : aider le club HackademINT à se développer.  
 
 
 La comparaison entre ce que nous attendions et ce qui a été réalisé est donc plutôt bonne. Nous avions peut-être été trop ambitieux sur le café vie privée lors de certaines réunions où beaucoup d'idées avaient été proposées, mais l'événement a été, de notre point de vue et des retours que nous avons eu, réussi.  
