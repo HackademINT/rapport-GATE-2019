@@ -194,6 +194,15 @@ Je sors donc de ce projet GATE® avec beaucoup d'expérience en cybersécurité 
 
 ## Arthur BOYER
 
+Lors de la découverte des différents GATE®, celui d'HackademINT m'avait clairement attiré par son côté technique mais aussi car la cybersécurité fait partie de mes projets d'avenir. En faire en première année était donc un objectif majeur pour moi quand je suis arrivé à Télécom Sudparis.
+
+Mais au delà des compétences techniques, des connaissances et des automatismes que ce projet m'a permis d'apprendre et de comprendre, c'est une réelle  communauté que j'ai découverte, essentielle dans ce milieu pour progresser.
+Les temps forts de ce projet sont pour moi, comme pour beaucoup, les évènements **CTF**s à l'extérieur de l'école (que je tiens à remercier encore une fois de nous permettre d'y participer). Ces nuits à se battre contre des challenges sont pour moi inoubliables, puisqu'elle m'ont permis de découvrir mes limites, mais également de voyager à travers la France et de rencontrer des acteurs majeurs dans le domaine de la cybersécurité, comme lors du Tournoi de Renseignement et d'Analyse de Centrale Supélec (TRACS), où nous avons pû rentrer en contact avec des agents de la DGSE.
+
+Grâce à ce projet, j'ai autant appris en cybersécurité qu'en moyens d'apprendre la cybersécrité, ce qui m'a permis de progresser mais également de me donner les moyens de continuer à progresser par moi-même.
+
+Ce projet GATE® a donc été une expérience plus que fortement positive, dans la forme comme dans le fond, riche en apprentissage mais aussi en expériences liées à la cybersécurité et au travail en groupe.
+
 ## Bruno DENNEMONT
 
 Le projet GATE® a été très épanouissant. Cela a en effet été la première fois où je m'impliquais dans un projet sur une si longue durée. J'avais beaucoup d'attente dans ce projet, c'était le moment pour moi de me mettre à la cybersécurité.
