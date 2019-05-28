@@ -126,7 +126,28 @@ Les formations que nous avons suivies ont été utiles et ont très certainement
 
 ## Gestion de projet et suivi
 
-@Frazew
+En terme de gestion de projet, nous avons utilisé une approche agile tout au
+long de l'année.
+
+Les deadlines imposées par les dates des CTFs marquaient les
+différents jalons et les performances des membres de l'équipe permettaient
+d'établir un bilan efficace sur la formation effectuée en amont. Les rendez-vous
+mensuels avec notre tuteur permettaient de faire le point sur les projets pour
+lesquels cette approche agile ne s'appliquait pas : l'organisation du Café Vie
+Privée et la recherche de partenariats.
+
+L'approche agile pour les CTFs et la formation s'est avérée particulièrement
+porteuse et il semble que ce choix était bien pertinent. L'approche plus
+traditionnelle de gestion de projet adoptée pour les autres réalisations a
+rapidement montré ses défauts : la deadline lointaine du Café Vie Privée en a
+rendu son organisation assez désorganisée. Retrospectivement, l'établissement
+d'un Gantt aurait été pertinent puisque cela aurait permis de mieux dissocier
+les différentes tâches et d'avoir une vue plus claire quant aux étapes
+intermédiaires nécessaires à la bonne tenue de cet événement. Pour autant,
+l'organisation, sans être optimale, s'est bien déroulée et l'événement a été un
+franc succès.
+
+
 
 # Dossier Bilan
 
