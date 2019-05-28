@@ -119,7 +119,7 @@ Les formations que nous avons suivies ont été utiles et ont très certainement
 ## Relations humaines et management
 
 Les relations ont été très vite renforcées par le temps passé ensemble à se former et dans les compétitions elles-mêmes. Un esprit d’équipe s’est assez vite formé. Certains ont commencé à développer des facilités de travail en paire ou en trinôme pendant les compétitions et la cohésion en a été augmentée. 
-Des activités de team building ont aussi eu lieu afin de continuer à souder l’équipe.
+Des activités de team building ont aussi eu lieu afin de continuer à souder l’équipe. Parmi celles-ci, on retrouve des repas festifs, des sorties au laser-game ainsi qu’à la patinoire. Sans oublier le temps passé en transport pour se rendre sur les lieux de compétition.
 Et cela a fonctionné puisque l’efficacité d’organisation et en compétition étaient au rendez-vous.
 Même les membres qui n’ont pas, par manque de temps ou d’envie, passé beaucoup de temps à s’investir dans le club sont restés actifs dans le GATE et en bonne entente avec le reste de l’effectif.
 
